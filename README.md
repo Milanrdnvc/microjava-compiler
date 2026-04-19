@@ -1,6 +1,6 @@
 # MicroJava Compiler - Project
 ## University of Belgrade, Faculty of Electrical Engineering
-### Course: Construction of Compilers (PP1)
+### Course: Construction of Compilers 1
 Welcome to the repository for my MicroJava Compiler project. This project is developed as part of the coursework at the University of Belgrade, Faculty of Electrical Engineering.
 ## Project Overview
 This project involves the implementation of a full compiler for the **MicroJava** programming language — a simplified subset of Java designed for educational purposes. The compiler translates MicroJava source code into bytecode executable by the MicroJava Virtual Machine, covering all major phases of compilation.

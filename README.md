@@ -1,6 +1,6 @@
 # MicroJava Compiler - Project
 ## University of Belgrade, Faculty of Electrical Engineering
-### Course: Construction of Compilers 1
+### Course: Construction of Compilers (PP1)
 Welcome to the repository for my MicroJava Compiler project. This project is developed as part of the coursework at the University of Belgrade, Faculty of Electrical Engineering.
 ## Project Overview
 This project involves the implementation of a full compiler for the **MicroJava** programming language — a simplified subset of Java designed for educational purposes. The compiler translates MicroJava source code into bytecode executable by the MicroJava Virtual Machine, covering all major phases of compilation.
@@ -16,16 +16,31 @@ You can clone this repository to your local development environment:
 ```bash
 git clone https://github.com/Milanrdnvc/microjava-compiler.git
 ```
-Import the project into Eclipse IDE: `File → Import → Existing Projects into Workspace`.
+The project is built using Apache Ant via the included `build.xml` script. Make sure you have Ant and JDK installed.
 
-Run the compiler on a MicroJava source file:
+Generate the lexer from the JFlex specification:
 ```bash
-java -cp bin:lib/* rs.ac.bg.etf.pp1.Compiler test/program.mj
+ant lexerGen
 ```
 
-Build the project with Ant:
+Generate the parser and AST from the CUP specification:
 ```bash
-ant -f build.xml
+ant parserGen
+```
+
+Compile the project:
+```bash
+ant compile
+```
+
+Run the compiled `.obj` bytecode on the MicroJava VM:
+```bash
+ant runObj
+```
+
+Disassemble the compiled `.obj` file:
+```bash
+ant disasm
 ```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

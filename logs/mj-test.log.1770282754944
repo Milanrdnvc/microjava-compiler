@@ -1,0 +1,49 @@
+INFO  10:12:22,515 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:12:22,542 - #2 program
+INFO  10:12:22,542 - #45 Keske
+INFO  10:12:22,543 - #6 const
+INFO  10:12:22,543 - #45 int
+INFO  10:12:22,543 - #45 pi
+INFO  10:12:22,543 - #7 =
+INFO  10:12:22,543 - #46 3
+INFO  10:12:22,543 - #5 ;
+INFO  10:12:22,544 - #3 {
+INFO  10:12:22,544 - #12 void
+INFO  10:12:22,544 - #45 main
+INFO  10:12:22,545 - #13 (
+INFO  10:12:22,545 - #14 )
+INFO  10:12:22,545 - #3 {
+INFO  10:12:22,545 - #4 }
+INFO  10:12:22,546 - #4 }
+INFO  10:12:22,547 - Program(
+ Keske
+  ConstVarEnumDecl_Const(
+    ConstVarEnumDecl_Eps(
+    ) [ConstVarEnumDecl_Eps]
+    ConstDecl(
+      Type(
+       int
+      ) [Type]
+      ConstDeclFirst(
+       pi
+        Constant_Num(
+         3
+        ) [Constant_Num]
+      ) [ConstDeclFirst]
+      ConstDeclNext_Eps(
+      ) [ConstDeclNext_Eps]
+    ) [ConstDecl]
+  ) [ConstVarEnumDecl_Const]
+  MethodDeclList(
+    ReturnType_Void(
+    ) [ReturnType_Void]
+   main
+    FormParsL_Eps(
+    ) [FormParsL_Eps]
+    VarDeclL_Eps(
+    ) [VarDeclL_Eps]
+    StatementL_Eps(
+    ) [StatementL_Eps]
+  ) [MethodDeclList]
+) [Program]
+INFO  10:12:22,547 - =================================================================

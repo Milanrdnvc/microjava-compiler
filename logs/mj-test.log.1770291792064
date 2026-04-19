@@ -1,0 +1,32 @@
+INFO  12:43:02,467 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  12:43:02,495 - #2 program
+INFO  12:43:02,495 - #45 Keske
+INFO  12:43:02,496 - #45 int
+INFO  12:43:02,496 - #45 x
+INFO  12:43:02,496 - #5 ;
+INFO  12:43:02,497 - #3 {
+INFO  12:43:02,497 - #12 void
+INFO  12:43:02,497 - #45 f
+INFO  12:43:02,498 - #13 (
+INFO  12:43:02,498 - #45 char
+INFO  12:43:02,498 - #45 ch
+INFO  12:43:02,498 - #8 ,
+INFO  12:43:02,498 - #45 int
+INFO  12:43:02,498 - #45 a
+INFO  12:43:02,498 - #8 ,
+INFO  12:43:02,498 - #45 int
+INFO  12:43:02,498 - #45 arg
+INFO  12:43:02,498 - #14 )
+INFO  12:43:02,499 - #45 int
+INFO  12:43:02,499 - #45 x
+INFO  12:43:02,499 - #5 ;
+INFO  12:43:02,499 - #3 {
+INFO  12:43:02,500 - #45 x
+INFO  12:43:02,500 - #7 =
+INFO  12:43:02,500 - #45 arg
+INFO  12:43:02,501 - #5 ;
+INFO  12:43:02,501 - #4 }
+INFO  12:43:02,502 - #12 void
+ERROR 12:43:02,502 - 
+Sintaksna greska na liniji 14
+ERROR 12:43:02,502 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

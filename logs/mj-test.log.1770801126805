@@ -1,0 +1,150 @@
+INFO  10:10:14,751 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:10:14,783 - #2 program
+INFO  10:10:14,783 - #45 Keske
+INFO  10:10:14,783 - #6 const
+INFO  10:10:14,783 - #45 int
+INFO  10:10:14,783 - #45 pi
+INFO  10:10:14,784 - #7 =
+INFO  10:10:14,784 - #46 3
+INFO  10:10:14,784 - #5 ;
+INFO  10:10:14,784 - #45 int
+INFO  10:10:14,785 - #45 x
+INFO  10:10:14,785 - #8 ,
+INFO  10:10:14,785 - #45 y
+INFO  10:10:14,785 - #9 [
+INFO  10:10:14,785 - #10 ]
+INFO  10:10:14,785 - #5 ;
+INFO  10:10:14,785 - #3 {
+INFO  10:10:14,786 - #12 void
+INFO  10:10:14,786 - #45 main
+INFO  10:10:14,786 - #13 (
+INFO  10:10:14,786 - #14 )
+INFO  10:10:14,786 - #45 int
+INFO  10:10:14,786 - #45 a
+INFO  10:10:14,787 - #8 ,
+INFO  10:10:14,787 - #45 b
+INFO  10:10:14,787 - #5 ;
+INFO  10:10:14,787 - #45 char
+INFO  10:10:14,787 - #45 carr
+INFO  10:10:14,787 - #9 [
+INFO  10:10:14,787 - #10 ]
+INFO  10:10:14,787 - #5 ;
+INFO  10:10:14,787 - #3 {
+INFO  10:10:14,787 - #20 print
+INFO  10:10:14,787 - #13 (
+INFO  10:10:14,787 - #48 a
+INFO  10:10:14,788 - #14 )
+INFO  10:10:14,789 - #5 ;
+INFO  10:10:14,789 - #4 }
+INFO  10:10:14,789 - #4 }
+INFO  10:10:14,792 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst_Var(
+       x
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Comma(
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_VarDecl(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           a
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Comma(
+            VarDeclFirst_Var(
+             b
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDeclNext_Comma]
+        ) [VarDecl]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             char
+            ) [Type]
+            VarDeclFirst_Array(
+             carr
+            ) [VarDeclFirst_Array]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl]
+          VarDeclL_Eps(
+          ) [VarDeclL_Eps]
+        ) [VarDeclL_VarDecl]
+      ) [VarDeclL_VarDecl]
+      StatementL_Statement(
+        Statement_Print(
+          Expr_NonTernaryExpr(
+            NonTernaryExpr(
+              AddopTermL_Term(
+                Term(
+                  MulopFactorL_Factor(
+                    Factor(
+                      MinusOpt_Eps(
+                      ) [MinusOpt_Eps]
+                      Factor_Char(
+                       a
+                      ) [Factor_Char]
+                    ) [Factor]
+                  ) [MulopFactorL_Factor]
+                ) [Term]
+              ) [AddopTermL_Term]
+            ) [NonTernaryExpr]
+          ) [Expr_NonTernaryExpr]
+          NumConstOpt_Eps(
+          ) [NumConstOpt_Eps]
+        ) [Statement_Print]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  10:10:14,792 - =================================================================
+INFO  10:10:14,797 - =================================================================
+INFO  10:10:14,798 - Generisanje uspesno zavrseno!

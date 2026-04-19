@@ -1,0 +1,70 @@
+INFO  10:13:03,185 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:13:03,205 - #2 program
+INFO  10:13:03,206 - #45 Keske
+INFO  10:13:03,206 - #6 const
+INFO  10:13:03,206 - #45 int
+INFO  10:13:03,206 - #45 pi
+INFO  10:13:03,206 - #7 =
+INFO  10:13:03,207 - #46 3
+INFO  10:13:03,207 - #5 ;
+INFO  10:13:03,207 - #6 const
+INFO  10:13:03,208 - #45 char
+INFO  10:13:03,208 - #45 c
+INFO  10:13:03,208 - #7 =
+INFO  10:13:03,208 - #47 c
+INFO  10:13:03,208 - #5 ;
+INFO  10:13:03,208 - #3 {
+INFO  10:13:03,208 - #12 void
+INFO  10:13:03,208 - #45 main
+INFO  10:13:03,208 - #13 (
+INFO  10:13:03,208 - #14 )
+INFO  10:13:03,209 - #3 {
+INFO  10:13:03,209 - #4 }
+INFO  10:13:03,209 - #4 }
+INFO  10:13:03,211 - Program(
+ Keske
+  ConstVarEnumDecl_Const(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    ConstDecl(
+      Type(
+       char
+      ) [Type]
+      ConstDeclFirst(
+       c
+        Constant_Char(
+         c
+        ) [Constant_Char]
+      ) [ConstDeclFirst]
+      ConstDeclNext_Eps(
+      ) [ConstDeclNext_Eps]
+    ) [ConstDecl]
+  ) [ConstVarEnumDecl_Const]
+  MethodDeclList(
+    ReturnType_Void(
+    ) [ReturnType_Void]
+   main
+    FormParsL_Eps(
+    ) [FormParsL_Eps]
+    VarDeclL_Eps(
+    ) [VarDeclL_Eps]
+    StatementL_Eps(
+    ) [StatementL_Eps]
+  ) [MethodDeclList]
+) [Program]
+INFO  10:13:03,211 - =================================================================

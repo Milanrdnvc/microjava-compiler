@@ -1,0 +1,41 @@
+INFO  13:04:03,714 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  13:04:03,744 - #2 program
+INFO  13:04:03,744 - #45 Keske
+INFO  13:04:03,744 - #11 enum
+INFO  13:04:03,745 - #45 MyType
+INFO  13:04:03,745 - #3 {
+INFO  13:04:03,745 - #45 A
+INFO  13:04:03,745 - #8 ,
+INFO  13:04:03,746 - #45 B
+INFO  13:04:03,746 - #7 =
+INFO  13:04:03,746 - #46 3
+INFO  13:04:03,746 - #8 ,
+INFO  13:04:03,746 - #45 C
+INFO  13:04:03,746 - #8 ,
+INFO  13:04:03,746 - #45 D
+INFO  13:04:03,746 - #4 }
+INFO  13:04:03,747 - #6 const
+INFO  13:04:03,747 - #45 int
+INFO  13:04:03,747 - #45 y
+INFO  13:04:03,747 - #7 =
+INFO  13:04:03,747 - #46 10
+INFO  13:04:03,748 - #5 ;
+INFO  13:04:03,748 - #45 int
+INFO  13:04:03,749 - #45 x
+INFO  13:04:03,749 - #9 [
+INFO  13:04:03,749 - #10 ]
+INFO  13:04:03,749 - #5 ;
+INFO  13:04:03,749 - #45 MyType
+INFO  13:04:03,749 - #45 test
+INFO  13:04:03,749 - #5 ;
+INFO  13:04:03,750 - #3 {
+INFO  13:04:03,750 - #45 MyType
+INFO  13:04:03,750 - #45 foo
+INFO  13:04:03,750 - #13 (
+INFO  13:04:03,750 - #14 )
+INFO  13:04:03,750 - #3 {
+INFO  13:04:03,751 - #45 A
+INFO  13:04:03,751 - #5 ;
+ERROR 13:04:03,751 - 
+Sintaksna greska na liniji 16
+ERROR 13:04:03,751 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 16

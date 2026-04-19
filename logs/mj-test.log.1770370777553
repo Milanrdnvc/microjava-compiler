@@ -1,0 +1,77 @@
+INFO  10:38:31,948 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:38:31,978 - #2 program
+INFO  10:38:31,979 - #45 Keske
+INFO  10:38:31,979 - #6 const
+INFO  10:38:31,979 - #45 int
+INFO  10:38:31,979 - #45 pi
+INFO  10:38:31,980 - #7 =
+INFO  10:38:31,980 - #46 3
+INFO  10:38:31,980 - #5 ;
+INFO  10:38:31,980 - #45 char
+INFO  10:38:31,981 - #45 carr
+INFO  10:38:31,981 - #9 [
+INFO  10:38:31,981 - #10 ]
+INFO  10:38:31,981 - #5 ;
+INFO  10:38:31,982 - #3 {
+INFO  10:38:31,982 - #12 void
+INFO  10:38:31,982 - #45 main
+INFO  10:38:31,983 - #13 (
+INFO  10:38:31,983 - #14 )
+INFO  10:38:31,983 - #3 {
+INFO  10:38:31,984 - #4 }
+INFO  10:38:31,984 - #4 }
+INFO  10:38:31,986 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    VarDecl(
+      Type(
+       char
+      ) [Type]
+      VarDeclFirst(
+       carr
+        Array_Brackets(
+        ) [Array_Brackets]
+      ) [VarDeclFirst]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDeclList(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDeclList]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  10:38:31,988 - =================================================================
+INFO  10:38:31,988 - Parsiranje uspesno zavrseno!

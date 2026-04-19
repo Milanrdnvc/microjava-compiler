@@ -1,0 +1,42 @@
+INFO  11:01:22,897 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:01:22,926 - #2 program
+INFO  11:01:22,926 - #45 Keske
+INFO  11:01:22,926 - #6 const
+INFO  11:01:22,927 - #45 int
+INFO  11:01:22,927 - #45 pi
+INFO  11:01:22,927 - #7 =
+INFO  11:01:22,927 - #46 3
+INFO  11:01:22,927 - #5 ;
+INFO  11:01:22,928 - #45 int
+INFO  11:01:22,928 - #45 x
+INFO  11:01:22,928 - #5 ;
+INFO  11:01:22,929 - #45 int
+INFO  11:01:22,929 - #45 y
+INFO  11:01:22,929 - #9 [
+INFO  11:01:22,929 - #10 ]
+INFO  11:01:22,929 - #8 ,
+INFO  11:01:22,929 - #45 z
+INFO  11:01:22,929 - #5 ;
+INFO  11:01:22,929 - #6 const
+INFO  11:01:22,930 - #45 bool
+INFO  11:01:22,930 - #45 t
+INFO  11:01:22,930 - #7 =
+INFO  11:01:22,930 - #47 1
+INFO  11:01:22,930 - #5 ;
+INFO  11:01:22,930 - #11 enum
+INFO  11:01:22,930 - #45 MyType
+INFO  11:01:22,930 - #3 {
+INFO  11:01:22,931 - #45 A
+INFO  11:01:22,931 - #8 ,
+INFO  11:01:22,931 - #45 B
+INFO  11:01:22,931 - #7 =
+INFO  11:01:22,931 - #46 3
+INFO  11:01:22,931 - #8 ,
+INFO  11:01:22,931 - #45 C
+INFO  11:01:22,931 - #4 }
+INFO  11:01:22,932 - #45 MyType
+INFO  11:01:22,932 - #45 test
+INFO  11:01:22,932 - #7 =
+ERROR 11:01:22,932 - 
+Sintaksna greska na liniji 12
+ERROR 11:01:22,932 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 12

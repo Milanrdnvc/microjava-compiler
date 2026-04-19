@@ -1,0 +1,221 @@
+INFO  12:31:34,549 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  12:31:34,580 - #2 program
+INFO  12:31:34,580 - #45 Keske
+INFO  12:31:34,580 - #6 const
+INFO  12:31:34,581 - #45 int
+INFO  12:31:34,581 - #45 pi
+INFO  12:31:34,581 - #7 =
+INFO  12:31:34,581 - #46 3
+INFO  12:31:34,581 - #5 ;
+INFO  12:31:34,582 - #45 int
+INFO  12:31:34,582 - #45 x
+INFO  12:31:34,582 - #8 ,
+INFO  12:31:34,582 - #45 y
+INFO  12:31:34,582 - #9 [
+INFO  12:31:34,582 - #10 ]
+INFO  12:31:34,582 - #5 ;
+INFO  12:31:34,583 - #11 enum
+INFO  12:31:34,583 - #45 MyType
+INFO  12:31:34,583 - #3 {
+INFO  12:31:34,583 - #45 NULA
+INFO  12:31:34,583 - #8 ,
+INFO  12:31:34,584 - #45 JEDAN
+INFO  12:31:34,584 - #7 =
+INFO  12:31:34,584 - #46 5
+INFO  12:31:34,584 - #8 ,
+INFO  12:31:34,584 - #45 DVA
+INFO  12:31:34,584 - #4 }
+INFO  12:31:34,585 - #3 {
+INFO  12:31:34,585 - #45 int
+INFO  12:31:34,585 - #45 foo
+INFO  12:31:34,585 - #13 (
+INFO  12:31:34,586 - #14 )
+INFO  12:31:34,586 - #3 {
+INFO  12:31:34,586 - #18 return
+INFO  12:31:34,586 - #46 1
+INFO  12:31:34,586 - #5 ;
+INFO  12:31:34,587 - #4 }
+INFO  12:31:34,588 - #12 void
+INFO  12:31:34,588 - #45 main
+INFO  12:31:34,588 - #13 (
+INFO  12:31:34,588 - #14 )
+INFO  12:31:34,588 - #45 int
+INFO  12:31:34,588 - #45 a
+INFO  12:31:34,588 - #8 ,
+INFO  12:31:34,588 - #45 b
+INFO  12:31:34,588 - #8 ,
+INFO  12:31:34,589 - #45 c
+INFO  12:31:34,589 - #9 [
+INFO  12:31:34,589 - #10 ]
+INFO  12:31:34,589 - #5 ;
+INFO  12:31:34,589 - #45 char
+INFO  12:31:34,589 - #45 carr
+INFO  12:31:34,589 - #9 [
+INFO  12:31:34,589 - #10 ]
+INFO  12:31:34,589 - #5 ;
+INFO  12:31:34,589 - #3 {
+INFO  12:31:34,589 - #4 }
+INFO  12:31:34,589 - #4 }
+INFO  12:31:34,592 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Enum(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Eps(
+        ) [ConstVarEnumDecl_Eps]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           pi
+            Constant_Num(
+             3
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Var(
+         x
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Comma(
+          VarDeclFirst_Array(
+           y
+          ) [VarDeclFirst_Array]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDeclNext_Comma]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    EnumDecl(
+      EnumName(
+       MyType
+      ) [EnumName]
+      EnumDeclFirst(
+       NULA
+        NumConst_Eps(
+        ) [NumConst_Eps]
+      ) [EnumDeclFirst]
+      EnumDeclNext_Comma(
+        EnumDeclFirst(
+         JEDAN
+          NumConst_Num(
+           5
+          ) [NumConst_Num]
+        ) [EnumDeclFirst]
+        EnumDeclNext_Comma(
+          EnumDeclFirst(
+           DVA
+            NumConst_Eps(
+            ) [NumConst_Eps]
+          ) [EnumDeclFirst]
+          EnumDeclNext_Eps(
+          ) [EnumDeclNext_Eps]
+        ) [EnumDeclNext_Comma]
+      ) [EnumDeclNext_Comma]
+    ) [EnumDecl]
+  ) [ConstVarEnumDecl_Enum]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Type(
+        Type(
+         int
+        ) [Type]
+      ) [ReturnType_Type]
+      MethodName(
+       foo
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Return(
+          ExprOpt_Expr(
+            Expr_NonTernaryExpr(
+              NonTernaryExpr(
+                AddopTermL_Term(
+                  Term(
+                    MulopFactorL_Factor(
+                      Factor(
+                        MinusOpt_Eps(
+                        ) [MinusOpt_Eps]
+                        Factor_Num(
+                         1
+                        ) [Factor_Num]
+                      ) [Factor]
+                    ) [MulopFactorL_Factor]
+                  ) [Term]
+                ) [AddopTermL_Term]
+              ) [NonTernaryExpr]
+            ) [Expr_NonTernaryExpr]
+          ) [ExprOpt_Expr]
+        ) [Statement_Return]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_MethodDecl(
+      MethodDecl(
+        ReturnType_Void(
+        ) [ReturnType_Void]
+        MethodName(
+         main
+        ) [MethodName]
+        FormParsL_Eps(
+        ) [FormParsL_Eps]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclFirst_Var(
+             a
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Comma(
+              VarDeclFirst_Var(
+               b
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Comma(
+                VarDeclFirst_Array(
+                 c
+                ) [VarDeclFirst_Array]
+                VarDeclNext_Eps(
+                ) [VarDeclNext_Eps]
+              ) [VarDeclNext_Comma]
+            ) [VarDeclNext_Comma]
+          ) [VarDecl]
+          VarDeclL_VarDecl(
+            VarDecl(
+              Type(
+               char
+              ) [Type]
+              VarDeclFirst_Array(
+               carr
+              ) [VarDeclFirst_Array]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDecl]
+            VarDeclL_Eps(
+            ) [VarDeclL_Eps]
+          ) [VarDeclL_VarDecl]
+        ) [VarDeclL_VarDecl]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [MethodDecl]
+      MethodDeclL_Eps(
+      ) [MethodDeclL_Eps]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  12:31:34,593 - =================================================================
+INFO  12:31:34,597 - =================================================================
+INFO  12:31:34,598 - Generisanje uspesno zavrseno!

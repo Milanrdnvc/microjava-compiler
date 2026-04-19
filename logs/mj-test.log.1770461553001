@@ -1,0 +1,298 @@
+INFO  11:52:21,277 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:52:21,306 - #2 program
+INFO  11:52:21,306 - #45 Keske
+INFO  11:52:21,306 - #6 const
+INFO  11:52:21,307 - #45 int
+INFO  11:52:21,307 - #45 pi
+INFO  11:52:21,307 - #7 =
+INFO  11:52:21,307 - #46 3
+INFO  11:52:21,307 - #5 ;
+INFO  11:52:21,308 - #45 int
+INFO  11:52:21,308 - #45 x
+INFO  11:52:21,308 - #5 ;
+INFO  11:52:21,309 - #45 int
+INFO  11:52:21,309 - #45 y
+INFO  11:52:21,309 - #9 [
+INFO  11:52:21,309 - #10 ]
+INFO  11:52:21,309 - #8 ,
+INFO  11:52:21,309 - #45 z
+INFO  11:52:21,309 - #5 ;
+INFO  11:52:21,309 - #6 const
+INFO  11:52:21,309 - #45 bool
+INFO  11:52:21,309 - #45 t
+INFO  11:52:21,309 - #7 =
+INFO  11:52:21,310 - #47 1
+INFO  11:52:21,310 - #5 ;
+INFO  11:52:21,310 - #3 {
+INFO  11:52:21,310 - #45 int
+INFO  11:52:21,310 - #45 foo
+INFO  11:52:21,310 - #13 (
+INFO  11:52:21,310 - #14 )
+INFO  11:52:21,311 - #45 int
+INFO  11:52:21,311 - #45 abc
+INFO  11:52:21,311 - #5 ;
+INFO  11:52:21,311 - #3 {
+INFO  11:52:21,311 - #4 }
+INFO  11:52:21,311 - #45 bool
+INFO  11:52:21,312 - #45 bar
+INFO  11:52:21,312 - #13 (
+INFO  11:52:21,312 - #14 )
+INFO  11:52:21,312 - #45 int
+INFO  11:52:21,312 - #45 abcd
+INFO  11:52:21,312 - #5 ;
+INFO  11:52:21,312 - #3 {
+INFO  11:52:21,312 - #4 }
+INFO  11:52:21,312 - #12 void
+INFO  11:52:21,312 - #45 main
+INFO  11:52:21,312 - #13 (
+INFO  11:52:21,312 - #14 )
+INFO  11:52:21,312 - #45 int
+INFO  11:52:21,312 - #45 x
+INFO  11:52:21,312 - #5 ;
+INFO  11:52:21,312 - #45 int
+INFO  11:52:21,313 - #45 y
+INFO  11:52:21,313 - #9 [
+INFO  11:52:21,313 - #10 ]
+INFO  11:52:21,313 - #5 ;
+INFO  11:52:21,313 - #45 char
+INFO  11:52:21,313 - #45 z
+INFO  11:52:21,313 - #5 ;
+INFO  11:52:21,313 - #45 int
+INFO  11:52:21,313 - #45 eol
+INFO  11:52:21,313 - #5 ;
+INFO  11:52:21,313 - #3 {
+INFO  11:52:21,313 - #4 }
+INFO  11:52:21,313 - #45 int
+INFO  11:52:21,313 - #45 main
+INFO  11:52:21,313 - #13 (
+INFO  11:52:21,313 - #14 )
+INFO  11:52:21,313 - #45 char
+INFO  11:52:21,313 - #45 test
+INFO  11:52:21,313 - #5 ;
+INFO  11:52:21,313 - #3 {
+INFO  11:52:21,313 - #4 }
+INFO  11:52:21,313 - #4 }
+INFO  11:52:21,316 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Const(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Var(
+        ConstVarEnumDecl_Const(
+          ConstVarEnumDecl_Eps(
+          ) [ConstVarEnumDecl_Eps]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstDeclFirst(
+             pi
+              Constant_Num(
+               3
+              ) [Constant_Num]
+            ) [ConstDeclFirst]
+            ConstDeclNext_Eps(
+            ) [ConstDeclNext_Eps]
+          ) [ConstDecl]
+        ) [ConstVarEnumDecl_Const]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           x
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDecl]
+      ) [ConstVarEnumDecl_Var]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Comma(
+          VarDeclFirst_Var(
+           z
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDeclNext_Comma]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    ConstDecl(
+      Type(
+       bool
+      ) [Type]
+      ConstDeclFirst(
+       t
+        Constant_Bool(
+         1
+        ) [Constant_Bool]
+      ) [ConstDeclFirst]
+      ConstDeclNext_Eps(
+      ) [ConstDeclNext_Eps]
+    ) [ConstDecl]
+  ) [ConstVarEnumDecl_Const]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Type(
+        Type(
+         int
+        ) [Type]
+      ) [ReturnType_Type]
+      MethodName(
+       foo
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_VarDecl(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           abc
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDecl]
+        VarDeclL_Eps(
+        ) [VarDeclL_Eps]
+      ) [VarDeclL_VarDecl]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDecl]
+    MethodDeclL_MethodDecl(
+      MethodDecl(
+        ReturnType_Type(
+          Type(
+           bool
+          ) [Type]
+        ) [ReturnType_Type]
+        MethodName(
+         bar
+        ) [MethodName]
+        FormParsL_Eps(
+        ) [FormParsL_Eps]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclFirst_Var(
+             abcd
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl]
+          VarDeclL_Eps(
+          ) [VarDeclL_Eps]
+        ) [VarDeclL_VarDecl]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [MethodDecl]
+      MethodDeclL_MethodDecl(
+        MethodDecl(
+          ReturnType_Void(
+          ) [ReturnType_Void]
+          MethodName(
+           main
+          ) [MethodName]
+          FormParsL_Eps(
+          ) [FormParsL_Eps]
+          VarDeclL_VarDecl(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclFirst_Var(
+               x
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDecl]
+            VarDeclL_VarDecl(
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                VarDeclFirst_Array(
+                 y
+                ) [VarDeclFirst_Array]
+                VarDeclNext_Eps(
+                ) [VarDeclNext_Eps]
+              ) [VarDecl]
+              VarDeclL_VarDecl(
+                VarDecl(
+                  Type(
+                   char
+                  ) [Type]
+                  VarDeclFirst_Var(
+                   z
+                  ) [VarDeclFirst_Var]
+                  VarDeclNext_Eps(
+                  ) [VarDeclNext_Eps]
+                ) [VarDecl]
+                VarDeclL_VarDecl(
+                  VarDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    VarDeclFirst_Var(
+                     eol
+                    ) [VarDeclFirst_Var]
+                    VarDeclNext_Eps(
+                    ) [VarDeclNext_Eps]
+                  ) [VarDecl]
+                  VarDeclL_Eps(
+                  ) [VarDeclL_Eps]
+                ) [VarDeclL_VarDecl]
+              ) [VarDeclL_VarDecl]
+            ) [VarDeclL_VarDecl]
+          ) [VarDeclL_VarDecl]
+          StatementL_Eps(
+          ) [StatementL_Eps]
+        ) [MethodDecl]
+        MethodDeclL_MethodDecl(
+          MethodDecl(
+            ReturnType_Type(
+              Type(
+               int
+              ) [Type]
+            ) [ReturnType_Type]
+            MethodName(
+             main
+            ) [MethodName]
+            FormParsL_Eps(
+            ) [FormParsL_Eps]
+            VarDeclL_VarDecl(
+              VarDecl(
+                Type(
+                 char
+                ) [Type]
+                VarDeclFirst_Var(
+                 test
+                ) [VarDeclFirst_Var]
+                VarDeclNext_Eps(
+                ) [VarDeclNext_Eps]
+              ) [VarDecl]
+              VarDeclL_Eps(
+              ) [VarDeclL_Eps]
+            ) [VarDeclL_VarDecl]
+            StatementL_Eps(
+            ) [StatementL_Eps]
+          ) [MethodDecl]
+          MethodDeclL_Eps(
+          ) [MethodDeclL_Eps]
+        ) [MethodDeclL_MethodDecl]
+      ) [MethodDeclL_MethodDecl]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:52:21,316 - =================================================================
+INFO  11:52:21,320 - =================================================================
+INFO  11:52:21,320 - Parsiranje uspesno zavrseno!

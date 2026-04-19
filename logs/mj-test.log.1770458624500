@@ -1,0 +1,98 @@
+INFO  11:02:17,440 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:02:17,462 - #2 program
+INFO  11:02:17,462 - #45 Keske
+INFO  11:02:17,462 - #6 const
+INFO  11:02:17,463 - #45 int
+INFO  11:02:17,463 - #45 pi
+INFO  11:02:17,463 - #7 =
+INFO  11:02:17,463 - #46 3
+INFO  11:02:17,463 - #5 ;
+INFO  11:02:17,464 - #45 int
+INFO  11:02:17,464 - #45 x
+INFO  11:02:17,464 - #5 ;
+INFO  11:02:17,464 - #45 int
+INFO  11:02:17,465 - #45 y
+INFO  11:02:17,465 - #9 [
+INFO  11:02:17,465 - #10 ]
+INFO  11:02:17,465 - #8 ,
+INFO  11:02:17,465 - #45 z
+INFO  11:02:17,465 - #5 ;
+INFO  11:02:17,465 - #3 {
+INFO  11:02:17,465 - #12 void
+INFO  11:02:17,465 - #45 main
+INFO  11:02:17,466 - #13 (
+INFO  11:02:17,466 - #14 )
+INFO  11:02:17,466 - #3 {
+INFO  11:02:17,467 - #4 }
+INFO  11:02:17,467 - #4 }
+INFO  11:02:17,469 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Eps(
+        ) [ConstVarEnumDecl_Eps]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           pi
+            Constant_Num(
+             3
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Var(
+         x
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst_Array(
+       y
+      ) [VarDeclFirst_Array]
+      VarDeclNext_Comma(
+        VarDeclFirst_Var(
+         z
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDeclList(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDeclList]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:02:17,469 - =================================================================
+INFO  11:02:17,481 - =================================================================
+INFO  11:02:17,482 - Parsiranje uspesno zavrseno!

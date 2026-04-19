@@ -1,0 +1,29 @@
+INFO  11:09:22,199 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:09:22,229 - #2 program
+INFO  11:09:22,229 - #45 Keske
+INFO  11:09:22,229 - #45 int
+INFO  11:09:22,230 - #45 x
+INFO  11:09:22,230 - #5 ;
+INFO  11:09:22,231 - #3 {
+INFO  11:09:22,232 - #12 void
+INFO  11:09:22,232 - #45 main
+INFO  11:09:22,232 - #13 (
+INFO  11:09:22,232 - #45 int
+INFO  11:09:22,232 - #45 b
+INFO  11:09:22,232 - #9 [
+INFO  11:09:22,232 - #10 ]
+INFO  11:09:22,232 - #8 ,
+INFO  11:09:22,233 - #45 int
+INFO  11:09:22,233 - #45 a
+INFO  11:09:22,233 - #8 ,
+INFO  11:09:22,233 - #45 char
+INFO  11:09:22,233 - #45 z
+INFO  11:09:22,233 - #8 ,
+INFO  11:09:22,233 - #45 bool
+INFO  11:09:22,233 - #45 a
+INFO  11:09:22,233 - #14 )
+INFO  11:09:22,234 - #3 {
+INFO  11:09:22,234 - #45 int
+ERROR 11:09:22,234 - 
+Sintaksna greska na liniji 9
+ERROR 11:09:22,234 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

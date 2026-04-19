@@ -1,0 +1,168 @@
+INFO  11:16:59,521 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:16:59,551 - #2 program
+INFO  11:16:59,551 - #45 Keske
+INFO  11:16:59,551 - #11 enum
+INFO  11:16:59,552 - #45 MyType
+INFO  11:16:59,552 - #3 {
+INFO  11:16:59,552 - #45 A
+INFO  11:16:59,552 - #8 ,
+INFO  11:16:59,553 - #45 B
+INFO  11:16:59,553 - #7 =
+INFO  11:16:59,553 - #46 3
+INFO  11:16:59,553 - #8 ,
+INFO  11:16:59,553 - #45 C
+INFO  11:16:59,553 - #4 }
+INFO  11:16:59,554 - #6 const
+INFO  11:16:59,554 - #45 int
+INFO  11:16:59,554 - #45 y
+INFO  11:16:59,554 - #7 =
+INFO  11:16:59,555 - #46 10
+INFO  11:16:59,555 - #5 ;
+INFO  11:16:59,555 - #45 int
+INFO  11:16:59,555 - #45 x
+INFO  11:16:59,555 - #9 [
+INFO  11:16:59,556 - #10 ]
+INFO  11:16:59,556 - #5 ;
+INFO  11:16:59,556 - #45 MyType
+INFO  11:16:59,556 - #45 test
+INFO  11:16:59,556 - #5 ;
+INFO  11:16:59,557 - #3 {
+INFO  11:16:59,557 - #12 void
+INFO  11:16:59,557 - #45 main
+INFO  11:16:59,557 - #13 (
+INFO  11:16:59,557 - #14 )
+INFO  11:16:59,557 - #3 {
+INFO  11:16:59,558 - #20 print
+INFO  11:16:59,558 - #13 (
+INFO  11:16:59,558 - #45 y
+INFO  11:16:59,558 - #29 .
+INFO  11:16:59,558 - #32 length
+INFO  11:16:59,558 - #14 )
+INFO  11:16:59,560 - #5 ;
+INFO  11:16:59,560 - #4 }
+INFO  11:16:59,560 - #4 }
+INFO  11:16:59,564 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Enum(
+          ConstVarEnumDecl_Eps(
+          ) [ConstVarEnumDecl_Eps]
+          EnumDecl(
+            EnumName(
+             MyType
+            ) [EnumName]
+            EnumDeclFirst(
+             A
+              NumConst_Eps(
+              ) [NumConst_Eps]
+            ) [EnumDeclFirst]
+            EnumDeclNext_Comma(
+              EnumDeclFirst(
+               B
+                NumConst_Num(
+                 3
+                ) [NumConst_Num]
+              ) [EnumDeclFirst]
+              EnumDeclNext_Comma(
+                EnumDeclFirst(
+                 C
+                  NumConst_Eps(
+                  ) [NumConst_Eps]
+                ) [EnumDeclFirst]
+                EnumDeclNext_Eps(
+                ) [EnumDeclNext_Eps]
+              ) [EnumDeclNext_Comma]
+            ) [EnumDeclNext_Comma]
+          ) [EnumDecl]
+        ) [ConstVarEnumDecl_Enum]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           y
+            Constant_Num(
+             10
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Array(
+         x
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       MyType
+      ) [Type]
+      VarDeclFirst_Var(
+       test
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Print(
+          Expr_NonTernaryExpr(
+            NonTernaryExpr(
+              Term(
+                Factor(
+                  MinusOpt_Eps(
+                  ) [MinusOpt_Eps]
+                  Factor_Designator(
+                    Designator_VarProperty(
+                      DesignatorVarPropertyName(
+                       y
+                      ) [DesignatorVarPropertyName]
+                      DesignatorPropertySuffix_Length(
+                      ) [DesignatorPropertySuffix_Length]
+                    ) [Designator_VarProperty]
+                  ) [Factor_Designator]
+                ) [Factor]
+                MulopFactorL_Eps(
+                ) [MulopFactorL_Eps]
+              ) [Term]
+              AddopTermL_Eps(
+              ) [AddopTermL_Eps]
+            ) [NonTernaryExpr]
+          ) [Expr_NonTernaryExpr]
+          NumConstOpt_Eps(
+          ) [NumConstOpt_Eps]
+        ) [Statement_Print]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:16:59,564 - =================================================================
+ERROR 11:16:59,568 - Neadekvatna promenljiva za pristup svojstvima: y na liniji 16
+INFO  11:16:59,568 - =================================================================
+ERROR 11:16:59,568 - Parsiranje NIJE uspesno zavrseno!

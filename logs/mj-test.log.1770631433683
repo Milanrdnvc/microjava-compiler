@@ -1,0 +1,183 @@
+INFO  11:03:41,707 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:03:41,729 - #2 program
+INFO  11:03:41,729 - #45 Keske
+INFO  11:03:41,729 - #11 enum
+INFO  11:03:41,730 - #45 MyType
+INFO  11:03:41,730 - #3 {
+INFO  11:03:41,730 - #45 A
+INFO  11:03:41,730 - #8 ,
+INFO  11:03:41,731 - #45 B
+INFO  11:03:41,731 - #7 =
+INFO  11:03:41,731 - #46 3
+INFO  11:03:41,731 - #8 ,
+INFO  11:03:41,731 - #45 C
+INFO  11:03:41,731 - #4 }
+INFO  11:03:41,731 - #6 const
+INFO  11:03:41,732 - #45 int
+INFO  11:03:41,732 - #45 y
+INFO  11:03:41,732 - #7 =
+INFO  11:03:41,732 - #46 10
+INFO  11:03:41,732 - #5 ;
+INFO  11:03:41,733 - #45 int
+INFO  11:03:41,733 - #45 x
+INFO  11:03:41,733 - #9 [
+INFO  11:03:41,734 - #10 ]
+INFO  11:03:41,734 - #5 ;
+INFO  11:03:41,734 - #45 MyType
+INFO  11:03:41,734 - #45 test
+INFO  11:03:41,734 - #5 ;
+INFO  11:03:41,734 - #3 {
+INFO  11:03:41,734 - #12 void
+INFO  11:03:41,734 - #45 main
+INFO  11:03:41,735 - #13 (
+INFO  11:03:41,735 - #14 )
+INFO  11:03:41,735 - #3 {
+INFO  11:03:41,735 - #20 print
+INFO  11:03:41,735 - #13 (
+INFO  11:03:41,736 - #45 x
+INFO  11:03:41,736 - #9 [
+INFO  11:03:41,736 - #46 2
+INFO  11:03:41,736 - #10 ]
+INFO  11:03:41,737 - #14 )
+INFO  11:03:41,738 - #5 ;
+INFO  11:03:41,738 - #4 }
+INFO  11:03:41,738 - #4 }
+INFO  11:03:41,742 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Enum(
+          ConstVarEnumDecl_Eps(
+          ) [ConstVarEnumDecl_Eps]
+          EnumDecl(
+            EnumName(
+             MyType
+            ) [EnumName]
+            EnumDeclFirst(
+             A
+              NumConst_Eps(
+              ) [NumConst_Eps]
+            ) [EnumDeclFirst]
+            EnumDeclNext_Comma(
+              EnumDeclFirst(
+               B
+                NumConst_Num(
+                 3
+                ) [NumConst_Num]
+              ) [EnumDeclFirst]
+              EnumDeclNext_Comma(
+                EnumDeclFirst(
+                 C
+                  NumConst_Eps(
+                  ) [NumConst_Eps]
+                ) [EnumDeclFirst]
+                EnumDeclNext_Eps(
+                ) [EnumDeclNext_Eps]
+              ) [EnumDeclNext_Comma]
+            ) [EnumDeclNext_Comma]
+          ) [EnumDecl]
+        ) [ConstVarEnumDecl_Enum]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           y
+            Constant_Num(
+             10
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Array(
+         x
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       MyType
+      ) [Type]
+      VarDeclFirst_Var(
+       test
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Print(
+          Expr_NonTernaryExpr(
+            NonTernaryExpr(
+              Term(
+                Factor(
+                  MinusOpt_Eps(
+                  ) [MinusOpt_Eps]
+                  Factor_Designator(
+                    Designator_Array(
+                      DesignatorArrayName(
+                       x
+                      ) [DesignatorArrayName]
+                      Expr_NonTernaryExpr(
+                        NonTernaryExpr(
+                          Term(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_Num(
+                               2
+                              ) [Factor_Num]
+                            ) [Factor]
+                            MulopFactorL_Eps(
+                            ) [MulopFactorL_Eps]
+                          ) [Term]
+                          AddopTermL_Eps(
+                          ) [AddopTermL_Eps]
+                        ) [NonTernaryExpr]
+                      ) [Expr_NonTernaryExpr]
+                    ) [Designator_Array]
+                  ) [Factor_Designator]
+                ) [Factor]
+                MulopFactorL_Eps(
+                ) [MulopFactorL_Eps]
+              ) [Term]
+              AddopTermL_Eps(
+              ) [AddopTermL_Eps]
+            ) [NonTernaryExpr]
+          ) [Expr_NonTernaryExpr]
+          NumConstOpt_Eps(
+          ) [NumConstOpt_Eps]
+        ) [Statement_Print]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:03:41,743 - =================================================================
+INFO  11:03:41,759 - =================================================================
+INFO  11:03:41,760 - Parsiranje uspesno zavrseno!

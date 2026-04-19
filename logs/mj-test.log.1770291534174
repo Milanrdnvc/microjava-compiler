@@ -1,0 +1,43 @@
+INFO  12:38:34,656 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  12:38:34,685 - #2 program
+INFO  12:38:34,685 - #45 Keske
+INFO  12:38:34,685 - #45 int
+INFO  12:38:34,685 - #45 x
+INFO  12:38:34,686 - #5 ;
+INFO  12:38:34,686 - #3 {
+INFO  12:38:34,687 - #12 void
+INFO  12:38:34,687 - #45 main
+INFO  12:38:34,687 - #13 (
+INFO  12:38:34,687 - #45 int
+INFO  12:38:34,687 - #45 b
+INFO  12:38:34,687 - #9 [
+INFO  12:38:34,687 - #10 ]
+INFO  12:38:34,687 - #8 ,
+INFO  12:38:34,688 - #45 int
+INFO  12:38:34,688 - #45 a
+INFO  12:38:34,688 - #8 ,
+INFO  12:38:34,688 - #45 char
+INFO  12:38:34,688 - #45 z
+INFO  12:38:34,688 - #8 ,
+INFO  12:38:34,688 - #45 bool
+INFO  12:38:34,688 - #45 a
+INFO  12:38:34,688 - #14 )
+INFO  12:38:34,689 - #45 int
+INFO  12:38:34,689 - #45 test
+INFO  12:38:34,689 - #5 ;
+INFO  12:38:34,689 - #3 {
+INFO  12:38:34,689 - #45 test
+INFO  12:38:34,689 - #7 =
+INFO  12:38:34,690 - #45 a
+INFO  12:38:34,690 - #5 ;
+INFO  12:38:34,691 - #17 continue
+INFO  12:38:34,691 - #5 ;
+INFO  12:38:34,691 - #18 return
+INFO  12:38:34,692 - #46 5
+INFO  12:38:34,692 - #5 ;
+INFO  12:38:34,692 - #19 read
+INFO  12:38:34,692 - #13 (
+INFO  12:38:34,692 - #48 x
+ERROR 12:38:34,692 - 
+Sintaksna greska na liniji 14
+ERROR 12:38:34,692 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 14

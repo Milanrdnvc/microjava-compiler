@@ -1,0 +1,95 @@
+INFO  09:20:50,303 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  09:20:50,328 - #2 program
+INFO  09:20:50,328 - #45 Keske
+INFO  09:20:50,328 - #6 const
+INFO  09:20:50,329 - #45 int
+INFO  09:20:50,329 - #45 pi
+INFO  09:20:50,329 - #7 =
+INFO  09:20:50,329 - #46 3
+INFO  09:20:50,329 - #5 ;
+INFO  09:20:50,330 - #3 {
+INFO  09:20:50,330 - #12 void
+INFO  09:20:50,330 - #45 main
+INFO  09:20:50,330 - #13 (
+INFO  09:20:50,331 - #14 )
+INFO  09:20:50,331 - #3 {
+INFO  09:20:50,331 - #20 print
+INFO  09:20:50,331 - #13 (
+INFO  09:20:50,331 - #46 1
+INFO  09:20:50,332 - #14 )
+INFO  09:20:50,333 - #5 ;
+INFO  09:20:50,333 - #18 return
+INFO  09:20:50,333 - #5 ;
+INFO  09:20:50,333 - #4 }
+INFO  09:20:50,334 - #4 }
+INFO  09:20:50,336 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Const(
+    ConstVarEnumDecl_Eps(
+    ) [ConstVarEnumDecl_Eps]
+    ConstDecl(
+      Type(
+       int
+      ) [Type]
+      ConstDeclFirst(
+       pi
+        Constant_Num(
+         3
+        ) [Constant_Num]
+      ) [ConstDeclFirst]
+      ConstDeclNext_Eps(
+      ) [ConstDeclNext_Eps]
+    ) [ConstDecl]
+  ) [ConstVarEnumDecl_Const]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Print(
+          Expr_NonTernaryExpr(
+            NonTernaryExpr(
+              AddopTermL_Term(
+                Term(
+                  MulopFactorL_Factor(
+                    Factor(
+                      MinusOpt_Eps(
+                      ) [MinusOpt_Eps]
+                      Factor_Num(
+                       1
+                      ) [Factor_Num]
+                    ) [Factor]
+                  ) [MulopFactorL_Factor]
+                ) [Term]
+              ) [AddopTermL_Term]
+            ) [NonTernaryExpr]
+          ) [Expr_NonTernaryExpr]
+          NumConstOpt_Eps(
+          ) [NumConstOpt_Eps]
+        ) [Statement_Print]
+        StatementL_Statement(
+          Statement_Return(
+            ExprOpt_Eps(
+            ) [ExprOpt_Eps]
+          ) [Statement_Return]
+          StatementL_Eps(
+          ) [StatementL_Eps]
+        ) [StatementL_Statement]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  09:20:50,337 - =================================================================
+INFO  09:20:50,341 - =================================================================
+INFO  09:20:50,343 - Parsiranje uspesno zavrseno!

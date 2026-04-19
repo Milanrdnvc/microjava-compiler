@@ -1,0 +1,140 @@
+INFO  11:50:56,207 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:50:56,231 - #2 program
+INFO  11:50:56,231 - #45 Keske
+INFO  11:50:56,231 - #11 enum
+INFO  11:50:56,231 - #45 MyType
+INFO  11:50:56,232 - #3 {
+INFO  11:50:56,232 - #45 A
+INFO  11:50:56,232 - #8 ,
+INFO  11:50:56,232 - #45 B
+INFO  11:50:56,233 - #7 =
+INFO  11:50:56,233 - #46 3
+INFO  11:50:56,233 - #8 ,
+INFO  11:50:56,233 - #45 C
+INFO  11:50:56,233 - #8 ,
+INFO  11:50:56,233 - #45 D
+INFO  11:50:56,233 - #4 }
+INFO  11:50:56,233 - #6 const
+INFO  11:50:56,234 - #45 int
+INFO  11:50:56,234 - #45 y
+INFO  11:50:56,234 - #7 =
+INFO  11:50:56,234 - #46 10
+INFO  11:50:56,234 - #5 ;
+INFO  11:50:56,235 - #45 int
+INFO  11:50:56,235 - #45 x
+INFO  11:50:56,235 - #9 [
+INFO  11:50:56,235 - #10 ]
+INFO  11:50:56,236 - #5 ;
+INFO  11:50:56,236 - #45 MyType
+INFO  11:50:56,236 - #45 test
+INFO  11:50:56,236 - #5 ;
+INFO  11:50:56,236 - #3 {
+INFO  11:50:56,236 - #12 void
+INFO  11:50:56,236 - #45 main
+INFO  11:50:56,237 - #13 (
+INFO  11:50:56,237 - #14 )
+INFO  11:50:56,237 - #3 {
+INFO  11:50:56,237 - #4 }
+INFO  11:50:56,238 - #4 }
+INFO  11:50:56,241 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Enum(
+          ConstVarEnumDecl_Eps(
+          ) [ConstVarEnumDecl_Eps]
+          EnumDecl(
+            EnumName(
+             MyType
+            ) [EnumName]
+            EnumDeclFirst(
+             A
+              NumConst_Eps(
+              ) [NumConst_Eps]
+            ) [EnumDeclFirst]
+            EnumDeclNext_Comma(
+              EnumDeclFirst(
+               B
+                NumConst_Num(
+                 3
+                ) [NumConst_Num]
+              ) [EnumDeclFirst]
+              EnumDeclNext_Comma(
+                EnumDeclFirst(
+                 C
+                  NumConst_Eps(
+                  ) [NumConst_Eps]
+                ) [EnumDeclFirst]
+                EnumDeclNext_Comma(
+                  EnumDeclFirst(
+                   D
+                    NumConst_Eps(
+                    ) [NumConst_Eps]
+                  ) [EnumDeclFirst]
+                  EnumDeclNext_Eps(
+                  ) [EnumDeclNext_Eps]
+                ) [EnumDeclNext_Comma]
+              ) [EnumDeclNext_Comma]
+            ) [EnumDeclNext_Comma]
+          ) [EnumDecl]
+        ) [ConstVarEnumDecl_Enum]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           y
+            Constant_Num(
+             10
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Array(
+         x
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       MyType
+      ) [Type]
+      VarDeclFirst_Var(
+       test
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:50:56,241 - =================================================================
+INFO  11:50:56,257 - =================================================================
+INFO  11:50:56,257 - Parsiranje uspesno zavrseno!

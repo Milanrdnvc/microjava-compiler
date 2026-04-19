@@ -1,0 +1,83 @@
+INFO  10:09:18,922 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:09:18,952 - #2 program
+INFO  10:09:18,952 - #45 Keske
+INFO  10:09:18,952 - #6 const
+INFO  10:09:18,953 - #45 bool
+INFO  10:09:18,953 - #45 pi
+INFO  10:09:18,953 - #7 =
+INFO  10:09:18,953 - #46 3
+INFO  10:09:18,953 - #5 ;
+INFO  10:09:18,954 - #45 char
+INFO  10:09:18,954 - #45 x
+INFO  10:09:18,954 - #8 ,
+INFO  10:09:18,954 - #45 y
+INFO  10:09:18,954 - #9 [
+INFO  10:09:18,954 - #10 ]
+INFO  10:09:18,955 - #5 ;
+INFO  10:09:18,955 - #3 {
+INFO  10:09:18,955 - #12 void
+INFO  10:09:18,955 - #45 main
+INFO  10:09:18,956 - #13 (
+INFO  10:09:18,956 - #14 )
+INFO  10:09:18,956 - #3 {
+INFO  10:09:18,956 - #4 }
+INFO  10:09:18,957 - #4 }
+INFO  10:09:18,959 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         bool
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    VarDecl(
+      Type(
+       char
+      ) [Type]
+      VarDeclFirst_Var(
+       x
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Comma(
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDeclList(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDeclList]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  10:09:18,959 - =================================================================
+INFO  10:09:18,963 - =================================================================
+INFO  10:09:18,963 - Parsiranje uspesno zavrseno!

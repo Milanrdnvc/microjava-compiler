@@ -1,0 +1,59 @@
+INFO  11:01:33,227 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:01:33,247 - #2 program
+INFO  11:01:33,248 - #45 Keske
+INFO  11:01:33,248 - #45 int
+INFO  11:01:33,248 - #45 x
+INFO  11:01:33,249 - #5 ;
+INFO  11:01:33,249 - #3 {
+INFO  11:01:33,250 - #12 void
+INFO  11:01:33,250 - #45 main
+INFO  11:01:33,250 - #13 (
+INFO  11:01:33,250 - #45 int
+INFO  11:01:33,250 - #45 a
+INFO  11:01:33,250 - #14 )
+INFO  11:01:33,251 - #3 {
+INFO  11:01:33,251 - #4 }
+INFO  11:01:33,252 - #4 }
+INFO  11:01:33,253 - Program(
+ Keske
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Eps(
+    ) [ConstVarEnumDecl_Eps]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst(
+       x
+        Array_Eps(
+        ) [Array_Eps]
+      ) [VarDeclFirst]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclList(
+    ReturnType_Void(
+    ) [ReturnType_Void]
+   main
+    FormParsL_Pars(
+      FormPars(
+        Type(
+         int
+        ) [Type]
+        FormParsFirst(
+         a
+          Array_Eps(
+          ) [Array_Eps]
+        ) [FormParsFirst]
+        FormParsNext_Eps(
+        ) [FormParsNext_Eps]
+      ) [FormPars]
+    ) [FormParsL_Pars]
+    VarDeclL_Eps(
+    ) [VarDeclL_Eps]
+    StatementL_Eps(
+    ) [StatementL_Eps]
+  ) [MethodDeclList]
+) [Program]
+INFO  11:01:33,254 - =================================================================

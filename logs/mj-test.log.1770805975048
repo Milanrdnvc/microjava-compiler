@@ -1,0 +1,171 @@
+INFO  11:30:50,476 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:30:50,506 - #2 program
+INFO  11:30:50,507 - #45 Keske
+INFO  11:30:50,507 - #6 const
+INFO  11:30:50,507 - #45 int
+INFO  11:30:50,507 - #45 pi
+INFO  11:30:50,508 - #7 =
+INFO  11:30:50,508 - #46 3
+INFO  11:30:50,508 - #5 ;
+INFO  11:30:50,508 - #45 int
+INFO  11:30:50,508 - #45 x
+INFO  11:30:50,509 - #8 ,
+INFO  11:30:50,509 - #45 y
+INFO  11:30:50,509 - #9 [
+INFO  11:30:50,509 - #10 ]
+INFO  11:30:50,509 - #5 ;
+INFO  11:30:50,509 - #3 {
+INFO  11:30:50,510 - #12 void
+INFO  11:30:50,510 - #45 main
+INFO  11:30:50,510 - #13 (
+INFO  11:30:50,510 - #14 )
+INFO  11:30:50,510 - #45 int
+INFO  11:30:50,510 - #45 a
+INFO  11:30:50,511 - #8 ,
+INFO  11:30:50,511 - #45 b
+INFO  11:30:50,511 - #8 ,
+INFO  11:30:50,511 - #45 c
+INFO  11:30:50,511 - #5 ;
+INFO  11:30:50,511 - #45 char
+INFO  11:30:50,511 - #45 carr
+INFO  11:30:50,511 - #9 [
+INFO  11:30:50,511 - #10 ]
+INFO  11:30:50,511 - #5 ;
+INFO  11:30:50,511 - #3 {
+INFO  11:30:50,512 - #45 a
+INFO  11:30:50,512 - #24 --
+INFO  11:30:50,512 - #5 ;
+INFO  11:30:50,512 - #20 print
+INFO  11:30:50,512 - #13 (
+INFO  11:30:50,512 - #45 a
+INFO  11:30:50,512 - #14 )
+INFO  11:30:50,514 - #5 ;
+INFO  11:30:50,514 - #4 }
+INFO  11:30:50,514 - #4 }
+INFO  11:30:50,517 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst_Var(
+       x
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Comma(
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_VarDecl(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           a
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Comma(
+            VarDeclFirst_Var(
+             b
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Comma(
+              VarDeclFirst_Var(
+               c
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDeclNext_Comma]
+          ) [VarDeclNext_Comma]
+        ) [VarDecl]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             char
+            ) [Type]
+            VarDeclFirst_Array(
+             carr
+            ) [VarDeclFirst_Array]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl]
+          VarDeclL_Eps(
+          ) [VarDeclL_Eps]
+        ) [VarDeclL_VarDecl]
+      ) [VarDeclL_VarDecl]
+      StatementL_Statement(
+        Statement_DesignatorStatement(
+          DesignatorStatement_Dec(
+            Designator_Var(
+             a
+            ) [Designator_Var]
+          ) [DesignatorStatement_Dec]
+        ) [Statement_DesignatorStatement]
+        StatementL_Statement(
+          Statement_Print(
+            Expr_NonTernaryExpr(
+              NonTernaryExpr(
+                AddopTermL_Term(
+                  Term(
+                    MulopFactorL_Factor(
+                      Factor(
+                        MinusOpt_Eps(
+                        ) [MinusOpt_Eps]
+                        Factor_Designator(
+                          Designator_Var(
+                           a
+                          ) [Designator_Var]
+                        ) [Factor_Designator]
+                      ) [Factor]
+                    ) [MulopFactorL_Factor]
+                  ) [Term]
+                ) [AddopTermL_Term]
+              ) [NonTernaryExpr]
+            ) [Expr_NonTernaryExpr]
+            NumConstOpt_Eps(
+            ) [NumConstOpt_Eps]
+          ) [Statement_Print]
+          StatementL_Eps(
+          ) [StatementL_Eps]
+        ) [StatementL_Statement]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:30:50,518 - =================================================================
+INFO  11:30:50,522 - =================================================================
+INFO  11:30:50,524 - Generisanje uspesno zavrseno!

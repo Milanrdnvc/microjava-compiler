@@ -1,0 +1,18 @@
+INFO  11:01:08,759 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:01:08,785 - #2 program
+INFO  11:01:08,785 - #45 Keske
+INFO  11:01:08,785 - #45 int
+INFO  11:01:08,786 - #45 x
+INFO  11:01:08,786 - #5 ;
+INFO  11:01:08,787 - #3 {
+INFO  11:01:08,787 - #12 void
+INFO  11:01:08,787 - #45 main
+INFO  11:01:08,788 - #13 (
+INFO  11:01:08,788 - #45 int
+INFO  11:01:08,788 - #45 a
+INFO  11:01:08,788 - #8 ,
+INFO  11:01:08,788 - #45 int
+INFO  11:01:08,788 - #45 b
+ERROR 11:01:08,788 - 
+Sintaksna greska na liniji 8
+ERROR 11:01:08,788 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

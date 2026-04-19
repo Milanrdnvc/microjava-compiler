@@ -1,0 +1,83 @@
+INFO  09:40:46,395 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  09:40:46,419 - #2 program
+INFO  09:40:46,419 - #45 Keske
+INFO  09:40:46,419 - #6 const
+INFO  09:40:46,420 - #45 int
+INFO  09:40:46,420 - #45 pi
+INFO  09:40:46,420 - #7 =
+INFO  09:40:46,420 - #46 3
+INFO  09:40:46,420 - #5 ;
+INFO  09:40:46,420 - #45 char
+INFO  09:40:46,421 - #45 x
+INFO  09:40:46,421 - #8 ,
+INFO  09:40:46,421 - #45 y
+INFO  09:40:46,421 - #9 [
+INFO  09:40:46,421 - #10 ]
+INFO  09:40:46,421 - #5 ;
+INFO  09:40:46,421 - #3 {
+INFO  09:40:46,422 - #12 void
+INFO  09:40:46,422 - #45 main
+INFO  09:40:46,422 - #13 (
+INFO  09:40:46,423 - #14 )
+INFO  09:40:46,423 - #3 {
+INFO  09:40:46,423 - #4 }
+INFO  09:40:46,423 - #4 }
+INFO  09:40:46,426 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Const(
+      ConstVarEnumDecl_Eps(
+      ) [ConstVarEnumDecl_Eps]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        ConstDeclFirst(
+         pi
+          Constant_Num(
+           3
+          ) [Constant_Num]
+        ) [ConstDeclFirst]
+        ConstDeclNext_Eps(
+        ) [ConstDeclNext_Eps]
+      ) [ConstDecl]
+    ) [ConstVarEnumDecl_Const]
+    VarDecl(
+      Type(
+       char
+      ) [Type]
+      VarDeclFirst_Var(
+       x
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Comma(
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDeclList(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDeclList]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  09:40:46,426 - =================================================================
+INFO  09:40:46,439 - =================================================================
+INFO  09:40:46,440 - Parsiranje uspesno zavrseno!

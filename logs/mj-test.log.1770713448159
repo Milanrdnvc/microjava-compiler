@@ -1,0 +1,1862 @@
+INFO  09:50:44,905 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  09:50:44,937 - #2 program
+INFO  09:50:44,937 - #45 Prog
+INFO  09:50:44,937 - #6 const
+INFO  09:50:44,937 - #45 int
+INFO  09:50:44,938 - #45 CI
+INFO  09:50:44,938 - #7 =
+INFO  09:50:44,938 - #46 3
+INFO  09:50:44,938 - #5 ;
+INFO  09:50:44,938 - #6 const
+INFO  09:50:44,939 - #45 bool
+INFO  09:50:44,939 - #45 CB
+INFO  09:50:44,939 - #7 =
+INFO  09:50:44,939 - #47 1
+INFO  09:50:44,939 - #5 ;
+INFO  09:50:44,939 - #11 enum
+INFO  09:50:44,939 - #45 Tip
+INFO  09:50:44,939 - #3 {
+INFO  09:50:44,939 - #45 NULA
+INFO  09:50:44,940 - #8 ,
+INFO  09:50:44,940 - #45 JEDAN
+INFO  09:50:44,940 - #8 ,
+INFO  09:50:44,940 - #45 PET
+INFO  09:50:44,940 - #7 =
+INFO  09:50:44,941 - #46 5
+INFO  09:50:44,941 - #8 ,
+INFO  09:50:44,941 - #45 DESET
+INFO  09:50:44,941 - #7 =
+INFO  09:50:44,941 - #46 10
+INFO  09:50:44,941 - #4 }
+INFO  09:50:44,941 - #11 enum
+INFO  09:50:44,941 - #45 Tip2
+INFO  09:50:44,941 - #3 {
+INFO  09:50:44,941 - #45 GAS
+INFO  09:50:44,941 - #8 ,
+INFO  09:50:44,942 - #45 JEDAN
+INFO  09:50:44,942 - #8 ,
+INFO  09:50:44,942 - #45 PET
+INFO  09:50:44,942 - #7 =
+INFO  09:50:44,942 - #46 5
+INFO  09:50:44,942 - #8 ,
+INFO  09:50:44,942 - #45 DESET
+INFO  09:50:44,942 - #7 =
+INFO  09:50:44,942 - #46 10
+INFO  09:50:44,942 - #4 }
+INFO  09:50:44,942 - #45 Tip
+INFO  09:50:44,942 - #45 e1
+INFO  09:50:44,942 - #8 ,
+INFO  09:50:44,942 - #45 e2
+INFO  09:50:44,942 - #5 ;
+INFO  09:50:44,942 - #45 int
+INFO  09:50:44,943 - #45 i1
+INFO  09:50:44,943 - #8 ,
+INFO  09:50:44,943 - #45 i2
+INFO  09:50:44,943 - #5 ;
+INFO  09:50:44,943 - #45 bool
+INFO  09:50:44,943 - #45 b1
+INFO  09:50:44,943 - #5 ;
+INFO  09:50:44,943 - #3 {
+INFO  09:50:44,943 - #45 Tip
+INFO  09:50:44,943 - #45 vratiEnum
+INFO  09:50:44,943 - #13 (
+INFO  09:50:44,944 - #14 )
+INFO  09:50:44,944 - #3 {
+INFO  09:50:44,944 - #18 return
+INFO  09:50:44,944 - #45 Tip
+INFO  09:50:44,945 - #29 .
+INFO  09:50:44,945 - #45 PET
+INFO  09:50:44,945 - #5 ;
+INFO  09:50:44,946 - #4 }
+INFO  09:50:44,946 - #45 int
+INFO  09:50:44,947 - #45 vratiInt
+INFO  09:50:44,947 - #13 (
+INFO  09:50:44,947 - #14 )
+INFO  09:50:44,947 - #3 {
+INFO  09:50:44,947 - #18 return
+INFO  09:50:44,947 - #46 7
+INFO  09:50:44,947 - #5 ;
+INFO  09:50:44,947 - #4 }
+INFO  09:50:44,947 - #45 int
+INFO  09:50:44,947 - #45 primiInt
+INFO  09:50:44,947 - #13 (
+INFO  09:50:44,947 - #45 int
+INFO  09:50:44,947 - #45 x
+INFO  09:50:44,947 - #14 )
+INFO  09:50:44,948 - #3 {
+INFO  09:50:44,948 - #18 return
+INFO  09:50:44,948 - #45 x
+INFO  09:50:44,948 - #33 +
+INFO  09:50:44,948 - #46 1
+INFO  09:50:44,948 - #5 ;
+INFO  09:50:44,948 - #4 }
+INFO  09:50:44,948 - #45 Tip
+INFO  09:50:44,949 - #45 primiEnum
+INFO  09:50:44,949 - #13 (
+INFO  09:50:44,949 - #45 Tip
+INFO  09:50:44,949 - #45 x
+INFO  09:50:44,949 - #14 )
+INFO  09:50:44,949 - #3 {
+INFO  09:50:44,949 - #18 return
+INFO  09:50:44,949 - #45 x
+INFO  09:50:44,949 - #5 ;
+INFO  09:50:44,949 - #4 }
+INFO  09:50:44,949 - #12 void
+INFO  09:50:44,949 - #45 main
+INFO  09:50:44,949 - #13 (
+INFO  09:50:44,949 - #14 )
+INFO  09:50:44,949 - #45 int
+INFO  09:50:44,949 - #45 arrInt
+INFO  09:50:44,949 - #9 [
+INFO  09:50:44,949 - #10 ]
+INFO  09:50:44,949 - #5 ;
+INFO  09:50:44,949 - #45 Tip
+INFO  09:50:44,950 - #45 arrEnum
+INFO  09:50:44,950 - #9 [
+INFO  09:50:44,950 - #10 ]
+INFO  09:50:44,950 - #5 ;
+INFO  09:50:44,950 - #45 char
+INFO  09:50:44,950 - #45 testChar
+INFO  09:50:44,950 - #5 ;
+INFO  09:50:44,950 - #3 {
+INFO  09:50:44,950 - #20 print
+INFO  09:50:44,950 - #13 (
+INFO  09:50:44,950 - #46 1
+INFO  09:50:44,950 - #14 )
+INFO  09:50:44,950 - #5 ;
+INFO  09:50:44,950 - #45 e1
+INFO  09:50:44,951 - #7 =
+INFO  09:50:44,951 - #45 Tip
+INFO  09:50:44,951 - #29 .
+INFO  09:50:44,951 - #45 JEDAN
+INFO  09:50:44,951 - #5 ;
+INFO  09:50:44,951 - #45 e1
+INFO  09:50:44,951 - #7 =
+INFO  09:50:44,951 - #45 e1
+INFO  09:50:44,951 - #5 ;
+INFO  09:50:44,951 - #45 e2
+INFO  09:50:44,951 - #7 =
+INFO  09:50:44,951 - #45 Tip
+INFO  09:50:44,951 - #29 .
+INFO  09:50:44,951 - #45 DESET
+INFO  09:50:44,951 - #5 ;
+INFO  09:50:44,951 - #45 i1
+INFO  09:50:44,951 - #7 =
+INFO  09:50:44,951 - #46 5
+INFO  09:50:44,951 - #5 ;
+INFO  09:50:44,951 - #45 i1
+INFO  09:50:44,951 - #7 =
+INFO  09:50:44,952 - #45 Tip
+INFO  09:50:44,952 - #29 .
+INFO  09:50:44,952 - #45 JEDAN
+INFO  09:50:44,952 - #5 ;
+INFO  09:50:44,952 - #45 i1
+INFO  09:50:44,952 - #7 =
+INFO  09:50:44,952 - #45 e1
+INFO  09:50:44,952 - #5 ;
+INFO  09:50:44,952 - #45 i1
+INFO  09:50:44,952 - #7 =
+INFO  09:50:44,952 - #45 Tip
+INFO  09:50:44,952 - #29 .
+INFO  09:50:44,952 - #45 JEDAN
+INFO  09:50:44,952 - #33 +
+INFO  09:50:44,952 - #46 2
+INFO  09:50:44,952 - #5 ;
+INFO  09:50:44,952 - #45 i1
+INFO  09:50:44,952 - #7 =
+INFO  09:50:44,952 - #45 Tip
+INFO  09:50:44,952 - #29 .
+INFO  09:50:44,952 - #45 JEDAN
+INFO  09:50:44,952 - #41 *
+INFO  09:50:44,952 - #45 Tip
+INFO  09:50:44,953 - #29 .
+INFO  09:50:44,953 - #45 PET
+INFO  09:50:44,953 - #5 ;
+INFO  09:50:44,953 - #45 i1
+INFO  09:50:44,953 - #7 =
+INFO  09:50:44,953 - #45 Tip
+INFO  09:50:44,953 - #29 .
+INFO  09:50:44,953 - #45 DESET
+INFO  09:50:44,953 - #33 +
+INFO  09:50:44,953 - #45 Tip2
+INFO  09:50:44,953 - #29 .
+INFO  09:50:44,953 - #45 PET
+INFO  09:50:44,953 - #5 ;
+INFO  09:50:44,953 - #45 i1
+INFO  09:50:44,953 - #7 =
+INFO  09:50:44,953 - #45 i1
+INFO  09:50:44,953 - #33 +
+INFO  09:50:44,953 - #45 Tip
+INFO  09:50:44,953 - #29 .
+INFO  09:50:44,953 - #45 JEDAN
+INFO  09:50:44,953 - #5 ;
+INFO  09:50:44,954 - #45 i1
+INFO  09:50:44,954 - #7 =
+INFO  09:50:44,954 - #46 2
+INFO  09:50:44,954 - #41 *
+INFO  09:50:44,954 - #45 Tip
+INFO  09:50:44,954 - #29 .
+INFO  09:50:44,954 - #45 PET
+INFO  09:50:44,954 - #33 +
+INFO  09:50:44,954 - #46 3
+INFO  09:50:44,954 - #5 ;
+INFO  09:50:44,954 - #45 i1
+INFO  09:50:44,954 - #7 =
+INFO  09:50:44,954 - #45 e1
+INFO  09:50:44,954 - #33 +
+INFO  09:50:44,954 - #46 1
+INFO  09:50:44,954 - #5 ;
+INFO  09:50:44,954 - #45 i1
+INFO  09:50:44,954 - #7 =
+INFO  09:50:44,954 - #45 e1
+INFO  09:50:44,954 - #41 *
+INFO  09:50:44,954 - #45 e2
+INFO  09:50:44,954 - #5 ;
+INFO  09:50:44,954 - #45 arrInt
+INFO  09:50:44,954 - #7 =
+INFO  09:50:44,954 - #34 new
+INFO  09:50:44,954 - #45 int
+INFO  09:50:44,954 - #9 [
+INFO  09:50:44,954 - #45 Tip
+INFO  09:50:44,955 - #29 .
+INFO  09:50:44,955 - #45 PET
+INFO  09:50:44,955 - #10 ]
+INFO  09:50:44,955 - #5 ;
+INFO  09:50:44,955 - #45 arrEnum
+INFO  09:50:44,955 - #7 =
+INFO  09:50:44,955 - #34 new
+INFO  09:50:44,955 - #45 Tip
+INFO  09:50:44,955 - #9 [
+INFO  09:50:44,955 - #45 Tip2
+INFO  09:50:44,955 - #29 .
+INFO  09:50:44,955 - #45 PET
+INFO  09:50:44,955 - #10 ]
+INFO  09:50:44,955 - #5 ;
+INFO  09:50:44,955 - #45 arrInt
+INFO  09:50:44,955 - #9 [
+INFO  09:50:44,955 - #45 Tip
+INFO  09:50:44,955 - #29 .
+INFO  09:50:44,955 - #45 JEDAN
+INFO  09:50:44,955 - #10 ]
+INFO  09:50:44,955 - #7 =
+INFO  09:50:44,956 - #46 5
+INFO  09:50:44,956 - #5 ;
+INFO  09:50:44,956 - #45 arrInt
+INFO  09:50:44,956 - #9 [
+INFO  09:50:44,956 - #45 Tip
+INFO  09:50:44,956 - #29 .
+INFO  09:50:44,956 - #45 PET
+INFO  09:50:44,956 - #33 +
+INFO  09:50:44,956 - #46 2
+INFO  09:50:44,956 - #10 ]
+INFO  09:50:44,956 - #7 =
+INFO  09:50:44,956 - #46 1
+INFO  09:50:44,956 - #5 ;
+INFO  09:50:44,956 - #45 arrInt
+INFO  09:50:44,957 - #9 [
+INFO  09:50:44,957 - #45 e1
+INFO  09:50:44,957 - #10 ]
+INFO  09:50:44,957 - #7 =
+INFO  09:50:44,957 - #46 3
+INFO  09:50:44,957 - #5 ;
+INFO  09:50:44,957 - #45 arrEnum
+INFO  09:50:44,957 - #9 [
+INFO  09:50:44,957 - #46 1
+INFO  09:50:44,957 - #10 ]
+INFO  09:50:44,957 - #7 =
+INFO  09:50:44,957 - #45 Tip
+INFO  09:50:44,957 - #29 .
+INFO  09:50:44,957 - #45 JEDAN
+INFO  09:50:44,958 - #5 ;
+INFO  09:50:44,958 - #45 arrEnum
+INFO  09:50:44,958 - #9 [
+INFO  09:50:44,958 - #45 Tip
+INFO  09:50:44,958 - #29 .
+INFO  09:50:44,958 - #45 JEDAN
+INFO  09:50:44,958 - #10 ]
+INFO  09:50:44,958 - #7 =
+INFO  09:50:44,958 - #45 Tip
+INFO  09:50:44,958 - #29 .
+INFO  09:50:44,958 - #45 NULA
+INFO  09:50:44,958 - #5 ;
+INFO  09:50:44,958 - #45 i2
+INFO  09:50:44,958 - #7 =
+INFO  09:50:44,958 - #13 (
+INFO  09:50:44,958 - #45 Tip2
+INFO  09:50:44,958 - #29 .
+INFO  09:50:44,958 - #45 PET
+INFO  09:50:44,958 - #33 +
+INFO  09:50:44,958 - #45 Tip
+INFO  09:50:44,958 - #29 .
+INFO  09:50:44,958 - #45 PET
+INFO  09:50:44,958 - #14 )
+INFO  09:50:44,958 - #41 *
+INFO  09:50:44,958 - #46 2
+INFO  09:50:44,958 - #33 +
+INFO  09:50:44,958 - #46 3
+INFO  09:50:44,958 - #41 *
+INFO  09:50:44,958 - #45 Tip
+INFO  09:50:44,959 - #29 .
+INFO  09:50:44,959 - #45 DESET
+INFO  09:50:44,959 - #5 ;
+INFO  09:50:44,959 - #45 i2
+INFO  09:50:44,959 - #7 =
+INFO  09:50:44,959 - #13 (
+INFO  09:50:44,959 - #45 Tip
+INFO  09:50:44,959 - #29 .
+INFO  09:50:44,959 - #45 PET
+INFO  09:50:44,959 - #33 +
+INFO  09:50:44,959 - #45 e1
+INFO  09:50:44,959 - #14 )
+INFO  09:50:44,959 - #41 *
+INFO  09:50:44,959 - #46 2
+INFO  09:50:44,959 - #5 ;
+INFO  09:50:44,959 - #4 }
+INFO  09:50:44,959 - #4 }
+INFO  09:50:44,968 - Program(
+  ProgramName(
+   Prog
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Var(
+        ConstVarEnumDecl_Enum(
+          ConstVarEnumDecl_Enum(
+            ConstVarEnumDecl_Const(
+              ConstVarEnumDecl_Const(
+                ConstVarEnumDecl_Eps(
+                ) [ConstVarEnumDecl_Eps]
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  ConstDeclFirst(
+                   CI
+                    Constant_Num(
+                     3
+                    ) [Constant_Num]
+                  ) [ConstDeclFirst]
+                  ConstDeclNext_Eps(
+                  ) [ConstDeclNext_Eps]
+                ) [ConstDecl]
+              ) [ConstVarEnumDecl_Const]
+              ConstDecl(
+                Type(
+                 bool
+                ) [Type]
+                ConstDeclFirst(
+                 CB
+                  Constant_Bool(
+                   1
+                  ) [Constant_Bool]
+                ) [ConstDeclFirst]
+                ConstDeclNext_Eps(
+                ) [ConstDeclNext_Eps]
+              ) [ConstDecl]
+            ) [ConstVarEnumDecl_Const]
+            EnumDecl(
+              EnumName(
+               Tip
+              ) [EnumName]
+              EnumDeclFirst(
+               NULA
+                NumConst_Eps(
+                ) [NumConst_Eps]
+              ) [EnumDeclFirst]
+              EnumDeclNext_Comma(
+                EnumDeclFirst(
+                 JEDAN
+                  NumConst_Eps(
+                  ) [NumConst_Eps]
+                ) [EnumDeclFirst]
+                EnumDeclNext_Comma(
+                  EnumDeclFirst(
+                   PET
+                    NumConst_Num(
+                     5
+                    ) [NumConst_Num]
+                  ) [EnumDeclFirst]
+                  EnumDeclNext_Comma(
+                    EnumDeclFirst(
+                     DESET
+                      NumConst_Num(
+                       10
+                      ) [NumConst_Num]
+                    ) [EnumDeclFirst]
+                    EnumDeclNext_Eps(
+                    ) [EnumDeclNext_Eps]
+                  ) [EnumDeclNext_Comma]
+                ) [EnumDeclNext_Comma]
+              ) [EnumDeclNext_Comma]
+            ) [EnumDecl]
+          ) [ConstVarEnumDecl_Enum]
+          EnumDecl(
+            EnumName(
+             Tip2
+            ) [EnumName]
+            EnumDeclFirst(
+             GAS
+              NumConst_Eps(
+              ) [NumConst_Eps]
+            ) [EnumDeclFirst]
+            EnumDeclNext_Comma(
+              EnumDeclFirst(
+               JEDAN
+                NumConst_Eps(
+                ) [NumConst_Eps]
+              ) [EnumDeclFirst]
+              EnumDeclNext_Comma(
+                EnumDeclFirst(
+                 PET
+                  NumConst_Num(
+                   5
+                  ) [NumConst_Num]
+                ) [EnumDeclFirst]
+                EnumDeclNext_Comma(
+                  EnumDeclFirst(
+                   DESET
+                    NumConst_Num(
+                     10
+                    ) [NumConst_Num]
+                  ) [EnumDeclFirst]
+                  EnumDeclNext_Eps(
+                  ) [EnumDeclNext_Eps]
+                ) [EnumDeclNext_Comma]
+              ) [EnumDeclNext_Comma]
+            ) [EnumDeclNext_Comma]
+          ) [EnumDecl]
+        ) [ConstVarEnumDecl_Enum]
+        VarDecl(
+          Type(
+           Tip
+          ) [Type]
+          VarDeclFirst_Var(
+           e1
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Comma(
+            VarDeclFirst_Var(
+             e2
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDeclNext_Comma]
+        ) [VarDecl]
+      ) [ConstVarEnumDecl_Var]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Var(
+         i1
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Comma(
+          VarDeclFirst_Var(
+           i2
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDeclNext_Comma]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       bool
+      ) [Type]
+      VarDeclFirst_Var(
+       b1
+      ) [VarDeclFirst_Var]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Type(
+        Type(
+         Tip
+        ) [Type]
+      ) [ReturnType_Type]
+      MethodName(
+       vratiEnum
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Return(
+          ExprOpt_Expr(
+            Expr_NonTernaryExpr(
+              NonTernaryExpr(
+                AddopTermL_Term(
+                  Term(
+                    MulopFactorL_Factor(
+                      Factor(
+                        MinusOpt_Eps(
+                        ) [MinusOpt_Eps]
+                        Factor_Designator(
+                          Designator_VarProperty(
+                            DesignatorVarPropertyName(
+                             Tip
+                            ) [DesignatorVarPropertyName]
+                            DesignatorPropertySuffix_EnumConst(
+                             PET
+                            ) [DesignatorPropertySuffix_EnumConst]
+                          ) [Designator_VarProperty]
+                        ) [Factor_Designator]
+                      ) [Factor]
+                    ) [MulopFactorL_Factor]
+                  ) [Term]
+                ) [AddopTermL_Term]
+              ) [NonTernaryExpr]
+            ) [Expr_NonTernaryExpr]
+          ) [ExprOpt_Expr]
+        ) [Statement_Return]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl]
+    MethodDeclL_MethodDecl(
+      MethodDecl(
+        ReturnType_Type(
+          Type(
+           int
+          ) [Type]
+        ) [ReturnType_Type]
+        MethodName(
+         vratiInt
+        ) [MethodName]
+        FormParsL_Eps(
+        ) [FormParsL_Eps]
+        VarDeclL_Eps(
+        ) [VarDeclL_Eps]
+        StatementL_Statement(
+          Statement_Return(
+            ExprOpt_Expr(
+              Expr_NonTernaryExpr(
+                NonTernaryExpr(
+                  AddopTermL_Term(
+                    Term(
+                      MulopFactorL_Factor(
+                        Factor(
+                          MinusOpt_Eps(
+                          ) [MinusOpt_Eps]
+                          Factor_Num(
+                           7
+                          ) [Factor_Num]
+                        ) [Factor]
+                      ) [MulopFactorL_Factor]
+                    ) [Term]
+                  ) [AddopTermL_Term]
+                ) [NonTernaryExpr]
+              ) [Expr_NonTernaryExpr]
+            ) [ExprOpt_Expr]
+          ) [Statement_Return]
+          StatementL_Eps(
+          ) [StatementL_Eps]
+        ) [StatementL_Statement]
+      ) [MethodDecl]
+      MethodDeclL_MethodDecl(
+        MethodDecl(
+          ReturnType_Type(
+            Type(
+             int
+            ) [Type]
+          ) [ReturnType_Type]
+          MethodName(
+           primiInt
+          ) [MethodName]
+          FormParsL_Pars(
+            FormPars(
+              Type(
+               int
+              ) [Type]
+              FormParsFirst_Var(
+               x
+              ) [FormParsFirst_Var]
+              FormParsNext_Eps(
+              ) [FormParsNext_Eps]
+            ) [FormPars]
+          ) [FormParsL_Pars]
+          VarDeclL_Eps(
+          ) [VarDeclL_Eps]
+          StatementL_Statement(
+            Statement_Return(
+              ExprOpt_Expr(
+                Expr_NonTernaryExpr(
+                  NonTernaryExpr(
+                    AddopTermL_AddopTerm(
+                      AddopTermL_Term(
+                        Term(
+                          MulopFactorL_Factor(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_Designator(
+                                Designator_Var(
+                                 x
+                                ) [Designator_Var]
+                              ) [Factor_Designator]
+                            ) [Factor]
+                          ) [MulopFactorL_Factor]
+                        ) [Term]
+                      ) [AddopTermL_Term]
+                      Addop_Plus(
+                      ) [Addop_Plus]
+                      Term(
+                        MulopFactorL_Factor(
+                          Factor(
+                            MinusOpt_Eps(
+                            ) [MinusOpt_Eps]
+                            Factor_Num(
+                             1
+                            ) [Factor_Num]
+                          ) [Factor]
+                        ) [MulopFactorL_Factor]
+                      ) [Term]
+                    ) [AddopTermL_AddopTerm]
+                  ) [NonTernaryExpr]
+                ) [Expr_NonTernaryExpr]
+              ) [ExprOpt_Expr]
+            ) [Statement_Return]
+            StatementL_Eps(
+            ) [StatementL_Eps]
+          ) [StatementL_Statement]
+        ) [MethodDecl]
+        MethodDeclL_MethodDecl(
+          MethodDecl(
+            ReturnType_Type(
+              Type(
+               Tip
+              ) [Type]
+            ) [ReturnType_Type]
+            MethodName(
+             primiEnum
+            ) [MethodName]
+            FormParsL_Pars(
+              FormPars(
+                Type(
+                 Tip
+                ) [Type]
+                FormParsFirst_Var(
+                 x
+                ) [FormParsFirst_Var]
+                FormParsNext_Eps(
+                ) [FormParsNext_Eps]
+              ) [FormPars]
+            ) [FormParsL_Pars]
+            VarDeclL_Eps(
+            ) [VarDeclL_Eps]
+            StatementL_Statement(
+              Statement_Return(
+                ExprOpt_Expr(
+                  Expr_NonTernaryExpr(
+                    NonTernaryExpr(
+                      AddopTermL_Term(
+                        Term(
+                          MulopFactorL_Factor(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_Designator(
+                                Designator_Var(
+                                 x
+                                ) [Designator_Var]
+                              ) [Factor_Designator]
+                            ) [Factor]
+                          ) [MulopFactorL_Factor]
+                        ) [Term]
+                      ) [AddopTermL_Term]
+                    ) [NonTernaryExpr]
+                  ) [Expr_NonTernaryExpr]
+                ) [ExprOpt_Expr]
+              ) [Statement_Return]
+              StatementL_Eps(
+              ) [StatementL_Eps]
+            ) [StatementL_Statement]
+          ) [MethodDecl]
+          MethodDeclL_MethodDecl(
+            MethodDecl(
+              ReturnType_Void(
+              ) [ReturnType_Void]
+              MethodName(
+               main
+              ) [MethodName]
+              FormParsL_Eps(
+              ) [FormParsL_Eps]
+              VarDeclL_VarDecl(
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclFirst_Array(
+                   arrInt
+                  ) [VarDeclFirst_Array]
+                  VarDeclNext_Eps(
+                  ) [VarDeclNext_Eps]
+                ) [VarDecl]
+                VarDeclL_VarDecl(
+                  VarDecl(
+                    Type(
+                     Tip
+                    ) [Type]
+                    VarDeclFirst_Array(
+                     arrEnum
+                    ) [VarDeclFirst_Array]
+                    VarDeclNext_Eps(
+                    ) [VarDeclNext_Eps]
+                  ) [VarDecl]
+                  VarDeclL_VarDecl(
+                    VarDecl(
+                      Type(
+                       char
+                      ) [Type]
+                      VarDeclFirst_Var(
+                       testChar
+                      ) [VarDeclFirst_Var]
+                      VarDeclNext_Eps(
+                      ) [VarDeclNext_Eps]
+                    ) [VarDecl]
+                    VarDeclL_Eps(
+                    ) [VarDeclL_Eps]
+                  ) [VarDeclL_VarDecl]
+                ) [VarDeclL_VarDecl]
+              ) [VarDeclL_VarDecl]
+              StatementL_Statement(
+                Statement_Print(
+                  Expr_NonTernaryExpr(
+                    NonTernaryExpr(
+                      AddopTermL_Term(
+                        Term(
+                          MulopFactorL_Factor(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_Num(
+                               1
+                              ) [Factor_Num]
+                            ) [Factor]
+                          ) [MulopFactorL_Factor]
+                        ) [Term]
+                      ) [AddopTermL_Term]
+                    ) [NonTernaryExpr]
+                  ) [Expr_NonTernaryExpr]
+                  NumConstOpt_Eps(
+                  ) [NumConstOpt_Eps]
+                ) [Statement_Print]
+                StatementL_Statement(
+                  Statement_DesignatorStatement(
+                    DesignatorStatement_DesignatorAssignExpr(
+                      Designator_Var(
+                       e1
+                      ) [Designator_Var]
+                      Expr_NonTernaryExpr(
+                        NonTernaryExpr(
+                          AddopTermL_Term(
+                            Term(
+                              MulopFactorL_Factor(
+                                Factor(
+                                  MinusOpt_Eps(
+                                  ) [MinusOpt_Eps]
+                                  Factor_Designator(
+                                    Designator_VarProperty(
+                                      DesignatorVarPropertyName(
+                                       Tip
+                                      ) [DesignatorVarPropertyName]
+                                      DesignatorPropertySuffix_EnumConst(
+                                       JEDAN
+                                      ) [DesignatorPropertySuffix_EnumConst]
+                                    ) [Designator_VarProperty]
+                                  ) [Factor_Designator]
+                                ) [Factor]
+                              ) [MulopFactorL_Factor]
+                            ) [Term]
+                          ) [AddopTermL_Term]
+                        ) [NonTernaryExpr]
+                      ) [Expr_NonTernaryExpr]
+                    ) [DesignatorStatement_DesignatorAssignExpr]
+                  ) [Statement_DesignatorStatement]
+                  StatementL_Statement(
+                    Statement_DesignatorStatement(
+                      DesignatorStatement_DesignatorAssignExpr(
+                        Designator_Var(
+                         e1
+                        ) [Designator_Var]
+                        Expr_NonTernaryExpr(
+                          NonTernaryExpr(
+                            AddopTermL_Term(
+                              Term(
+                                MulopFactorL_Factor(
+                                  Factor(
+                                    MinusOpt_Eps(
+                                    ) [MinusOpt_Eps]
+                                    Factor_Designator(
+                                      Designator_Var(
+                                       e1
+                                      ) [Designator_Var]
+                                    ) [Factor_Designator]
+                                  ) [Factor]
+                                ) [MulopFactorL_Factor]
+                              ) [Term]
+                            ) [AddopTermL_Term]
+                          ) [NonTernaryExpr]
+                        ) [Expr_NonTernaryExpr]
+                      ) [DesignatorStatement_DesignatorAssignExpr]
+                    ) [Statement_DesignatorStatement]
+                    StatementL_Statement(
+                      Statement_DesignatorStatement(
+                        DesignatorStatement_DesignatorAssignExpr(
+                          Designator_Var(
+                           e2
+                          ) [Designator_Var]
+                          Expr_NonTernaryExpr(
+                            NonTernaryExpr(
+                              AddopTermL_Term(
+                                Term(
+                                  MulopFactorL_Factor(
+                                    Factor(
+                                      MinusOpt_Eps(
+                                      ) [MinusOpt_Eps]
+                                      Factor_Designator(
+                                        Designator_VarProperty(
+                                          DesignatorVarPropertyName(
+                                           Tip
+                                          ) [DesignatorVarPropertyName]
+                                          DesignatorPropertySuffix_EnumConst(
+                                           DESET
+                                          ) [DesignatorPropertySuffix_EnumConst]
+                                        ) [Designator_VarProperty]
+                                      ) [Factor_Designator]
+                                    ) [Factor]
+                                  ) [MulopFactorL_Factor]
+                                ) [Term]
+                              ) [AddopTermL_Term]
+                            ) [NonTernaryExpr]
+                          ) [Expr_NonTernaryExpr]
+                        ) [DesignatorStatement_DesignatorAssignExpr]
+                      ) [Statement_DesignatorStatement]
+                      StatementL_Statement(
+                        Statement_DesignatorStatement(
+                          DesignatorStatement_DesignatorAssignExpr(
+                            Designator_Var(
+                             i1
+                            ) [Designator_Var]
+                            Expr_NonTernaryExpr(
+                              NonTernaryExpr(
+                                AddopTermL_Term(
+                                  Term(
+                                    MulopFactorL_Factor(
+                                      Factor(
+                                        MinusOpt_Eps(
+                                        ) [MinusOpt_Eps]
+                                        Factor_Num(
+                                         5
+                                        ) [Factor_Num]
+                                      ) [Factor]
+                                    ) [MulopFactorL_Factor]
+                                  ) [Term]
+                                ) [AddopTermL_Term]
+                              ) [NonTernaryExpr]
+                            ) [Expr_NonTernaryExpr]
+                          ) [DesignatorStatement_DesignatorAssignExpr]
+                        ) [Statement_DesignatorStatement]
+                        StatementL_Statement(
+                          Statement_DesignatorStatement(
+                            DesignatorStatement_DesignatorAssignExpr(
+                              Designator_Var(
+                               i1
+                              ) [Designator_Var]
+                              Expr_NonTernaryExpr(
+                                NonTernaryExpr(
+                                  AddopTermL_Term(
+                                    Term(
+                                      MulopFactorL_Factor(
+                                        Factor(
+                                          MinusOpt_Eps(
+                                          ) [MinusOpt_Eps]
+                                          Factor_Designator(
+                                            Designator_VarProperty(
+                                              DesignatorVarPropertyName(
+                                               Tip
+                                              ) [DesignatorVarPropertyName]
+                                              DesignatorPropertySuffix_EnumConst(
+                                               JEDAN
+                                              ) [DesignatorPropertySuffix_EnumConst]
+                                            ) [Designator_VarProperty]
+                                          ) [Factor_Designator]
+                                        ) [Factor]
+                                      ) [MulopFactorL_Factor]
+                                    ) [Term]
+                                  ) [AddopTermL_Term]
+                                ) [NonTernaryExpr]
+                              ) [Expr_NonTernaryExpr]
+                            ) [DesignatorStatement_DesignatorAssignExpr]
+                          ) [Statement_DesignatorStatement]
+                          StatementL_Statement(
+                            Statement_DesignatorStatement(
+                              DesignatorStatement_DesignatorAssignExpr(
+                                Designator_Var(
+                                 i1
+                                ) [Designator_Var]
+                                Expr_NonTernaryExpr(
+                                  NonTernaryExpr(
+                                    AddopTermL_Term(
+                                      Term(
+                                        MulopFactorL_Factor(
+                                          Factor(
+                                            MinusOpt_Eps(
+                                            ) [MinusOpt_Eps]
+                                            Factor_Designator(
+                                              Designator_Var(
+                                               e1
+                                              ) [Designator_Var]
+                                            ) [Factor_Designator]
+                                          ) [Factor]
+                                        ) [MulopFactorL_Factor]
+                                      ) [Term]
+                                    ) [AddopTermL_Term]
+                                  ) [NonTernaryExpr]
+                                ) [Expr_NonTernaryExpr]
+                              ) [DesignatorStatement_DesignatorAssignExpr]
+                            ) [Statement_DesignatorStatement]
+                            StatementL_Statement(
+                              Statement_DesignatorStatement(
+                                DesignatorStatement_DesignatorAssignExpr(
+                                  Designator_Var(
+                                   i1
+                                  ) [Designator_Var]
+                                  Expr_NonTernaryExpr(
+                                    NonTernaryExpr(
+                                      AddopTermL_AddopTerm(
+                                        AddopTermL_Term(
+                                          Term(
+                                            MulopFactorL_Factor(
+                                              Factor(
+                                                MinusOpt_Eps(
+                                                ) [MinusOpt_Eps]
+                                                Factor_Designator(
+                                                  Designator_VarProperty(
+                                                    DesignatorVarPropertyName(
+                                                     Tip
+                                                    ) [DesignatorVarPropertyName]
+                                                    DesignatorPropertySuffix_EnumConst(
+                                                     JEDAN
+                                                    ) [DesignatorPropertySuffix_EnumConst]
+                                                  ) [Designator_VarProperty]
+                                                ) [Factor_Designator]
+                                              ) [Factor]
+                                            ) [MulopFactorL_Factor]
+                                          ) [Term]
+                                        ) [AddopTermL_Term]
+                                        Addop_Plus(
+                                        ) [Addop_Plus]
+                                        Term(
+                                          MulopFactorL_Factor(
+                                            Factor(
+                                              MinusOpt_Eps(
+                                              ) [MinusOpt_Eps]
+                                              Factor_Num(
+                                               2
+                                              ) [Factor_Num]
+                                            ) [Factor]
+                                          ) [MulopFactorL_Factor]
+                                        ) [Term]
+                                      ) [AddopTermL_AddopTerm]
+                                    ) [NonTernaryExpr]
+                                  ) [Expr_NonTernaryExpr]
+                                ) [DesignatorStatement_DesignatorAssignExpr]
+                              ) [Statement_DesignatorStatement]
+                              StatementL_Statement(
+                                Statement_DesignatorStatement(
+                                  DesignatorStatement_DesignatorAssignExpr(
+                                    Designator_Var(
+                                     i1
+                                    ) [Designator_Var]
+                                    Expr_NonTernaryExpr(
+                                      NonTernaryExpr(
+                                        AddopTermL_Term(
+                                          Term(
+                                            MulopFactorL_MulopFactor(
+                                              MulopFactorL_Factor(
+                                                Factor(
+                                                  MinusOpt_Eps(
+                                                  ) [MinusOpt_Eps]
+                                                  Factor_Designator(
+                                                    Designator_VarProperty(
+                                                      DesignatorVarPropertyName(
+                                                       Tip
+                                                      ) [DesignatorVarPropertyName]
+                                                      DesignatorPropertySuffix_EnumConst(
+                                                       JEDAN
+                                                      ) [DesignatorPropertySuffix_EnumConst]
+                                                    ) [Designator_VarProperty]
+                                                  ) [Factor_Designator]
+                                                ) [Factor]
+                                              ) [MulopFactorL_Factor]
+                                              Mulop_Mul(
+                                              ) [Mulop_Mul]
+                                              Factor(
+                                                MinusOpt_Eps(
+                                                ) [MinusOpt_Eps]
+                                                Factor_Designator(
+                                                  Designator_VarProperty(
+                                                    DesignatorVarPropertyName(
+                                                     Tip
+                                                    ) [DesignatorVarPropertyName]
+                                                    DesignatorPropertySuffix_EnumConst(
+                                                     PET
+                                                    ) [DesignatorPropertySuffix_EnumConst]
+                                                  ) [Designator_VarProperty]
+                                                ) [Factor_Designator]
+                                              ) [Factor]
+                                            ) [MulopFactorL_MulopFactor]
+                                          ) [Term]
+                                        ) [AddopTermL_Term]
+                                      ) [NonTernaryExpr]
+                                    ) [Expr_NonTernaryExpr]
+                                  ) [DesignatorStatement_DesignatorAssignExpr]
+                                ) [Statement_DesignatorStatement]
+                                StatementL_Statement(
+                                  Statement_DesignatorStatement(
+                                    DesignatorStatement_DesignatorAssignExpr(
+                                      Designator_Var(
+                                       i1
+                                      ) [Designator_Var]
+                                      Expr_NonTernaryExpr(
+                                        NonTernaryExpr(
+                                          AddopTermL_AddopTerm(
+                                            AddopTermL_Term(
+                                              Term(
+                                                MulopFactorL_Factor(
+                                                  Factor(
+                                                    MinusOpt_Eps(
+                                                    ) [MinusOpt_Eps]
+                                                    Factor_Designator(
+                                                      Designator_VarProperty(
+                                                        DesignatorVarPropertyName(
+                                                         Tip
+                                                        ) [DesignatorVarPropertyName]
+                                                        DesignatorPropertySuffix_EnumConst(
+                                                         DESET
+                                                        ) [DesignatorPropertySuffix_EnumConst]
+                                                      ) [Designator_VarProperty]
+                                                    ) [Factor_Designator]
+                                                  ) [Factor]
+                                                ) [MulopFactorL_Factor]
+                                              ) [Term]
+                                            ) [AddopTermL_Term]
+                                            Addop_Plus(
+                                            ) [Addop_Plus]
+                                            Term(
+                                              MulopFactorL_Factor(
+                                                Factor(
+                                                  MinusOpt_Eps(
+                                                  ) [MinusOpt_Eps]
+                                                  Factor_Designator(
+                                                    Designator_VarProperty(
+                                                      DesignatorVarPropertyName(
+                                                       Tip2
+                                                      ) [DesignatorVarPropertyName]
+                                                      DesignatorPropertySuffix_EnumConst(
+                                                       PET
+                                                      ) [DesignatorPropertySuffix_EnumConst]
+                                                    ) [Designator_VarProperty]
+                                                  ) [Factor_Designator]
+                                                ) [Factor]
+                                              ) [MulopFactorL_Factor]
+                                            ) [Term]
+                                          ) [AddopTermL_AddopTerm]
+                                        ) [NonTernaryExpr]
+                                      ) [Expr_NonTernaryExpr]
+                                    ) [DesignatorStatement_DesignatorAssignExpr]
+                                  ) [Statement_DesignatorStatement]
+                                  StatementL_Statement(
+                                    Statement_DesignatorStatement(
+                                      DesignatorStatement_DesignatorAssignExpr(
+                                        Designator_Var(
+                                         i1
+                                        ) [Designator_Var]
+                                        Expr_NonTernaryExpr(
+                                          NonTernaryExpr(
+                                            AddopTermL_AddopTerm(
+                                              AddopTermL_Term(
+                                                Term(
+                                                  MulopFactorL_Factor(
+                                                    Factor(
+                                                      MinusOpt_Eps(
+                                                      ) [MinusOpt_Eps]
+                                                      Factor_Designator(
+                                                        Designator_Var(
+                                                         i1
+                                                        ) [Designator_Var]
+                                                      ) [Factor_Designator]
+                                                    ) [Factor]
+                                                  ) [MulopFactorL_Factor]
+                                                ) [Term]
+                                              ) [AddopTermL_Term]
+                                              Addop_Plus(
+                                              ) [Addop_Plus]
+                                              Term(
+                                                MulopFactorL_Factor(
+                                                  Factor(
+                                                    MinusOpt_Eps(
+                                                    ) [MinusOpt_Eps]
+                                                    Factor_Designator(
+                                                      Designator_VarProperty(
+                                                        DesignatorVarPropertyName(
+                                                         Tip
+                                                        ) [DesignatorVarPropertyName]
+                                                        DesignatorPropertySuffix_EnumConst(
+                                                         JEDAN
+                                                        ) [DesignatorPropertySuffix_EnumConst]
+                                                      ) [Designator_VarProperty]
+                                                    ) [Factor_Designator]
+                                                  ) [Factor]
+                                                ) [MulopFactorL_Factor]
+                                              ) [Term]
+                                            ) [AddopTermL_AddopTerm]
+                                          ) [NonTernaryExpr]
+                                        ) [Expr_NonTernaryExpr]
+                                      ) [DesignatorStatement_DesignatorAssignExpr]
+                                    ) [Statement_DesignatorStatement]
+                                    StatementL_Statement(
+                                      Statement_DesignatorStatement(
+                                        DesignatorStatement_DesignatorAssignExpr(
+                                          Designator_Var(
+                                           i1
+                                          ) [Designator_Var]
+                                          Expr_NonTernaryExpr(
+                                            NonTernaryExpr(
+                                              AddopTermL_AddopTerm(
+                                                AddopTermL_Term(
+                                                  Term(
+                                                    MulopFactorL_MulopFactor(
+                                                      MulopFactorL_Factor(
+                                                        Factor(
+                                                          MinusOpt_Eps(
+                                                          ) [MinusOpt_Eps]
+                                                          Factor_Num(
+                                                           2
+                                                          ) [Factor_Num]
+                                                        ) [Factor]
+                                                      ) [MulopFactorL_Factor]
+                                                      Mulop_Mul(
+                                                      ) [Mulop_Mul]
+                                                      Factor(
+                                                        MinusOpt_Eps(
+                                                        ) [MinusOpt_Eps]
+                                                        Factor_Designator(
+                                                          Designator_VarProperty(
+                                                            DesignatorVarPropertyName(
+                                                             Tip
+                                                            ) [DesignatorVarPropertyName]
+                                                            DesignatorPropertySuffix_EnumConst(
+                                                             PET
+                                                            ) [DesignatorPropertySuffix_EnumConst]
+                                                          ) [Designator_VarProperty]
+                                                        ) [Factor_Designator]
+                                                      ) [Factor]
+                                                    ) [MulopFactorL_MulopFactor]
+                                                  ) [Term]
+                                                ) [AddopTermL_Term]
+                                                Addop_Plus(
+                                                ) [Addop_Plus]
+                                                Term(
+                                                  MulopFactorL_Factor(
+                                                    Factor(
+                                                      MinusOpt_Eps(
+                                                      ) [MinusOpt_Eps]
+                                                      Factor_Num(
+                                                       3
+                                                      ) [Factor_Num]
+                                                    ) [Factor]
+                                                  ) [MulopFactorL_Factor]
+                                                ) [Term]
+                                              ) [AddopTermL_AddopTerm]
+                                            ) [NonTernaryExpr]
+                                          ) [Expr_NonTernaryExpr]
+                                        ) [DesignatorStatement_DesignatorAssignExpr]
+                                      ) [Statement_DesignatorStatement]
+                                      StatementL_Statement(
+                                        Statement_DesignatorStatement(
+                                          DesignatorStatement_DesignatorAssignExpr(
+                                            Designator_Var(
+                                             i1
+                                            ) [Designator_Var]
+                                            Expr_NonTernaryExpr(
+                                              NonTernaryExpr(
+                                                AddopTermL_AddopTerm(
+                                                  AddopTermL_Term(
+                                                    Term(
+                                                      MulopFactorL_Factor(
+                                                        Factor(
+                                                          MinusOpt_Eps(
+                                                          ) [MinusOpt_Eps]
+                                                          Factor_Designator(
+                                                            Designator_Var(
+                                                             e1
+                                                            ) [Designator_Var]
+                                                          ) [Factor_Designator]
+                                                        ) [Factor]
+                                                      ) [MulopFactorL_Factor]
+                                                    ) [Term]
+                                                  ) [AddopTermL_Term]
+                                                  Addop_Plus(
+                                                  ) [Addop_Plus]
+                                                  Term(
+                                                    MulopFactorL_Factor(
+                                                      Factor(
+                                                        MinusOpt_Eps(
+                                                        ) [MinusOpt_Eps]
+                                                        Factor_Num(
+                                                         1
+                                                        ) [Factor_Num]
+                                                      ) [Factor]
+                                                    ) [MulopFactorL_Factor]
+                                                  ) [Term]
+                                                ) [AddopTermL_AddopTerm]
+                                              ) [NonTernaryExpr]
+                                            ) [Expr_NonTernaryExpr]
+                                          ) [DesignatorStatement_DesignatorAssignExpr]
+                                        ) [Statement_DesignatorStatement]
+                                        StatementL_Statement(
+                                          Statement_DesignatorStatement(
+                                            DesignatorStatement_DesignatorAssignExpr(
+                                              Designator_Var(
+                                               i1
+                                              ) [Designator_Var]
+                                              Expr_NonTernaryExpr(
+                                                NonTernaryExpr(
+                                                  AddopTermL_Term(
+                                                    Term(
+                                                      MulopFactorL_MulopFactor(
+                                                        MulopFactorL_Factor(
+                                                          Factor(
+                                                            MinusOpt_Eps(
+                                                            ) [MinusOpt_Eps]
+                                                            Factor_Designator(
+                                                              Designator_Var(
+                                                               e1
+                                                              ) [Designator_Var]
+                                                            ) [Factor_Designator]
+                                                          ) [Factor]
+                                                        ) [MulopFactorL_Factor]
+                                                        Mulop_Mul(
+                                                        ) [Mulop_Mul]
+                                                        Factor(
+                                                          MinusOpt_Eps(
+                                                          ) [MinusOpt_Eps]
+                                                          Factor_Designator(
+                                                            Designator_Var(
+                                                             e2
+                                                            ) [Designator_Var]
+                                                          ) [Factor_Designator]
+                                                        ) [Factor]
+                                                      ) [MulopFactorL_MulopFactor]
+                                                    ) [Term]
+                                                  ) [AddopTermL_Term]
+                                                ) [NonTernaryExpr]
+                                              ) [Expr_NonTernaryExpr]
+                                            ) [DesignatorStatement_DesignatorAssignExpr]
+                                          ) [Statement_DesignatorStatement]
+                                          StatementL_Statement(
+                                            Statement_DesignatorStatement(
+                                              DesignatorStatement_DesignatorAssignExpr(
+                                                Designator_Var(
+                                                 arrInt
+                                                ) [Designator_Var]
+                                                Expr_NonTernaryExpr(
+                                                  NonTernaryExpr(
+                                                    AddopTermL_Term(
+                                                      Term(
+                                                        MulopFactorL_Factor(
+                                                          Factor(
+                                                            MinusOpt_Eps(
+                                                            ) [MinusOpt_Eps]
+                                                            Factor_NewTypeArray(
+                                                              Type(
+                                                               int
+                                                              ) [Type]
+                                                              Expr_NonTernaryExpr(
+                                                                NonTernaryExpr(
+                                                                  AddopTermL_Term(
+                                                                    Term(
+                                                                      MulopFactorL_Factor(
+                                                                        Factor(
+                                                                          MinusOpt_Eps(
+                                                                          ) [MinusOpt_Eps]
+                                                                          Factor_Designator(
+                                                                            Designator_VarProperty(
+                                                                              DesignatorVarPropertyName(
+                                                                               Tip
+                                                                              ) [DesignatorVarPropertyName]
+                                                                              DesignatorPropertySuffix_EnumConst(
+                                                                               PET
+                                                                              ) [DesignatorPropertySuffix_EnumConst]
+                                                                            ) [Designator_VarProperty]
+                                                                          ) [Factor_Designator]
+                                                                        ) [Factor]
+                                                                      ) [MulopFactorL_Factor]
+                                                                    ) [Term]
+                                                                  ) [AddopTermL_Term]
+                                                                ) [NonTernaryExpr]
+                                                              ) [Expr_NonTernaryExpr]
+                                                            ) [Factor_NewTypeArray]
+                                                          ) [Factor]
+                                                        ) [MulopFactorL_Factor]
+                                                      ) [Term]
+                                                    ) [AddopTermL_Term]
+                                                  ) [NonTernaryExpr]
+                                                ) [Expr_NonTernaryExpr]
+                                              ) [DesignatorStatement_DesignatorAssignExpr]
+                                            ) [Statement_DesignatorStatement]
+                                            StatementL_Statement(
+                                              Statement_DesignatorStatement(
+                                                DesignatorStatement_DesignatorAssignExpr(
+                                                  Designator_Var(
+                                                   arrEnum
+                                                  ) [Designator_Var]
+                                                  Expr_NonTernaryExpr(
+                                                    NonTernaryExpr(
+                                                      AddopTermL_Term(
+                                                        Term(
+                                                          MulopFactorL_Factor(
+                                                            Factor(
+                                                              MinusOpt_Eps(
+                                                              ) [MinusOpt_Eps]
+                                                              Factor_NewTypeArray(
+                                                                Type(
+                                                                 Tip
+                                                                ) [Type]
+                                                                Expr_NonTernaryExpr(
+                                                                  NonTernaryExpr(
+                                                                    AddopTermL_Term(
+                                                                      Term(
+                                                                        MulopFactorL_Factor(
+                                                                          Factor(
+                                                                            MinusOpt_Eps(
+                                                                            ) [MinusOpt_Eps]
+                                                                            Factor_Designator(
+                                                                              Designator_VarProperty(
+                                                                                DesignatorVarPropertyName(
+                                                                                 Tip2
+                                                                                ) [DesignatorVarPropertyName]
+                                                                                DesignatorPropertySuffix_EnumConst(
+                                                                                 PET
+                                                                                ) [DesignatorPropertySuffix_EnumConst]
+                                                                              ) [Designator_VarProperty]
+                                                                            ) [Factor_Designator]
+                                                                          ) [Factor]
+                                                                        ) [MulopFactorL_Factor]
+                                                                      ) [Term]
+                                                                    ) [AddopTermL_Term]
+                                                                  ) [NonTernaryExpr]
+                                                                ) [Expr_NonTernaryExpr]
+                                                              ) [Factor_NewTypeArray]
+                                                            ) [Factor]
+                                                          ) [MulopFactorL_Factor]
+                                                        ) [Term]
+                                                      ) [AddopTermL_Term]
+                                                    ) [NonTernaryExpr]
+                                                  ) [Expr_NonTernaryExpr]
+                                                ) [DesignatorStatement_DesignatorAssignExpr]
+                                              ) [Statement_DesignatorStatement]
+                                              StatementL_Statement(
+                                                Statement_DesignatorStatement(
+                                                  DesignatorStatement_DesignatorAssignExpr(
+                                                    Designator_Array(
+                                                      DesignatorArrayName(
+                                                       arrInt
+                                                      ) [DesignatorArrayName]
+                                                      Expr_NonTernaryExpr(
+                                                        NonTernaryExpr(
+                                                          AddopTermL_Term(
+                                                            Term(
+                                                              MulopFactorL_Factor(
+                                                                Factor(
+                                                                  MinusOpt_Eps(
+                                                                  ) [MinusOpt_Eps]
+                                                                  Factor_Designator(
+                                                                    Designator_VarProperty(
+                                                                      DesignatorVarPropertyName(
+                                                                       Tip
+                                                                      ) [DesignatorVarPropertyName]
+                                                                      DesignatorPropertySuffix_EnumConst(
+                                                                       JEDAN
+                                                                      ) [DesignatorPropertySuffix_EnumConst]
+                                                                    ) [Designator_VarProperty]
+                                                                  ) [Factor_Designator]
+                                                                ) [Factor]
+                                                              ) [MulopFactorL_Factor]
+                                                            ) [Term]
+                                                          ) [AddopTermL_Term]
+                                                        ) [NonTernaryExpr]
+                                                      ) [Expr_NonTernaryExpr]
+                                                    ) [Designator_Array]
+                                                    Expr_NonTernaryExpr(
+                                                      NonTernaryExpr(
+                                                        AddopTermL_Term(
+                                                          Term(
+                                                            MulopFactorL_Factor(
+                                                              Factor(
+                                                                MinusOpt_Eps(
+                                                                ) [MinusOpt_Eps]
+                                                                Factor_Num(
+                                                                 5
+                                                                ) [Factor_Num]
+                                                              ) [Factor]
+                                                            ) [MulopFactorL_Factor]
+                                                          ) [Term]
+                                                        ) [AddopTermL_Term]
+                                                      ) [NonTernaryExpr]
+                                                    ) [Expr_NonTernaryExpr]
+                                                  ) [DesignatorStatement_DesignatorAssignExpr]
+                                                ) [Statement_DesignatorStatement]
+                                                StatementL_Statement(
+                                                  Statement_DesignatorStatement(
+                                                    DesignatorStatement_DesignatorAssignExpr(
+                                                      Designator_Array(
+                                                        DesignatorArrayName(
+                                                         arrInt
+                                                        ) [DesignatorArrayName]
+                                                        Expr_NonTernaryExpr(
+                                                          NonTernaryExpr(
+                                                            AddopTermL_AddopTerm(
+                                                              AddopTermL_Term(
+                                                                Term(
+                                                                  MulopFactorL_Factor(
+                                                                    Factor(
+                                                                      MinusOpt_Eps(
+                                                                      ) [MinusOpt_Eps]
+                                                                      Factor_Designator(
+                                                                        Designator_VarProperty(
+                                                                          DesignatorVarPropertyName(
+                                                                           Tip
+                                                                          ) [DesignatorVarPropertyName]
+                                                                          DesignatorPropertySuffix_EnumConst(
+                                                                           PET
+                                                                          ) [DesignatorPropertySuffix_EnumConst]
+                                                                        ) [Designator_VarProperty]
+                                                                      ) [Factor_Designator]
+                                                                    ) [Factor]
+                                                                  ) [MulopFactorL_Factor]
+                                                                ) [Term]
+                                                              ) [AddopTermL_Term]
+                                                              Addop_Plus(
+                                                              ) [Addop_Plus]
+                                                              Term(
+                                                                MulopFactorL_Factor(
+                                                                  Factor(
+                                                                    MinusOpt_Eps(
+                                                                    ) [MinusOpt_Eps]
+                                                                    Factor_Num(
+                                                                     2
+                                                                    ) [Factor_Num]
+                                                                  ) [Factor]
+                                                                ) [MulopFactorL_Factor]
+                                                              ) [Term]
+                                                            ) [AddopTermL_AddopTerm]
+                                                          ) [NonTernaryExpr]
+                                                        ) [Expr_NonTernaryExpr]
+                                                      ) [Designator_Array]
+                                                      Expr_NonTernaryExpr(
+                                                        NonTernaryExpr(
+                                                          AddopTermL_Term(
+                                                            Term(
+                                                              MulopFactorL_Factor(
+                                                                Factor(
+                                                                  MinusOpt_Eps(
+                                                                  ) [MinusOpt_Eps]
+                                                                  Factor_Num(
+                                                                   1
+                                                                  ) [Factor_Num]
+                                                                ) [Factor]
+                                                              ) [MulopFactorL_Factor]
+                                                            ) [Term]
+                                                          ) [AddopTermL_Term]
+                                                        ) [NonTernaryExpr]
+                                                      ) [Expr_NonTernaryExpr]
+                                                    ) [DesignatorStatement_DesignatorAssignExpr]
+                                                  ) [Statement_DesignatorStatement]
+                                                  StatementL_Statement(
+                                                    Statement_DesignatorStatement(
+                                                      DesignatorStatement_DesignatorAssignExpr(
+                                                        Designator_Array(
+                                                          DesignatorArrayName(
+                                                           arrInt
+                                                          ) [DesignatorArrayName]
+                                                          Expr_NonTernaryExpr(
+                                                            NonTernaryExpr(
+                                                              AddopTermL_Term(
+                                                                Term(
+                                                                  MulopFactorL_Factor(
+                                                                    Factor(
+                                                                      MinusOpt_Eps(
+                                                                      ) [MinusOpt_Eps]
+                                                                      Factor_Designator(
+                                                                        Designator_Var(
+                                                                         e1
+                                                                        ) [Designator_Var]
+                                                                      ) [Factor_Designator]
+                                                                    ) [Factor]
+                                                                  ) [MulopFactorL_Factor]
+                                                                ) [Term]
+                                                              ) [AddopTermL_Term]
+                                                            ) [NonTernaryExpr]
+                                                          ) [Expr_NonTernaryExpr]
+                                                        ) [Designator_Array]
+                                                        Expr_NonTernaryExpr(
+                                                          NonTernaryExpr(
+                                                            AddopTermL_Term(
+                                                              Term(
+                                                                MulopFactorL_Factor(
+                                                                  Factor(
+                                                                    MinusOpt_Eps(
+                                                                    ) [MinusOpt_Eps]
+                                                                    Factor_Num(
+                                                                     3
+                                                                    ) [Factor_Num]
+                                                                  ) [Factor]
+                                                                ) [MulopFactorL_Factor]
+                                                              ) [Term]
+                                                            ) [AddopTermL_Term]
+                                                          ) [NonTernaryExpr]
+                                                        ) [Expr_NonTernaryExpr]
+                                                      ) [DesignatorStatement_DesignatorAssignExpr]
+                                                    ) [Statement_DesignatorStatement]
+                                                    StatementL_Statement(
+                                                      Statement_DesignatorStatement(
+                                                        DesignatorStatement_DesignatorAssignExpr(
+                                                          Designator_Array(
+                                                            DesignatorArrayName(
+                                                             arrEnum
+                                                            ) [DesignatorArrayName]
+                                                            Expr_NonTernaryExpr(
+                                                              NonTernaryExpr(
+                                                                AddopTermL_Term(
+                                                                  Term(
+                                                                    MulopFactorL_Factor(
+                                                                      Factor(
+                                                                        MinusOpt_Eps(
+                                                                        ) [MinusOpt_Eps]
+                                                                        Factor_Num(
+                                                                         1
+                                                                        ) [Factor_Num]
+                                                                      ) [Factor]
+                                                                    ) [MulopFactorL_Factor]
+                                                                  ) [Term]
+                                                                ) [AddopTermL_Term]
+                                                              ) [NonTernaryExpr]
+                                                            ) [Expr_NonTernaryExpr]
+                                                          ) [Designator_Array]
+                                                          Expr_NonTernaryExpr(
+                                                            NonTernaryExpr(
+                                                              AddopTermL_Term(
+                                                                Term(
+                                                                  MulopFactorL_Factor(
+                                                                    Factor(
+                                                                      MinusOpt_Eps(
+                                                                      ) [MinusOpt_Eps]
+                                                                      Factor_Designator(
+                                                                        Designator_VarProperty(
+                                                                          DesignatorVarPropertyName(
+                                                                           Tip
+                                                                          ) [DesignatorVarPropertyName]
+                                                                          DesignatorPropertySuffix_EnumConst(
+                                                                           JEDAN
+                                                                          ) [DesignatorPropertySuffix_EnumConst]
+                                                                        ) [Designator_VarProperty]
+                                                                      ) [Factor_Designator]
+                                                                    ) [Factor]
+                                                                  ) [MulopFactorL_Factor]
+                                                                ) [Term]
+                                                              ) [AddopTermL_Term]
+                                                            ) [NonTernaryExpr]
+                                                          ) [Expr_NonTernaryExpr]
+                                                        ) [DesignatorStatement_DesignatorAssignExpr]
+                                                      ) [Statement_DesignatorStatement]
+                                                      StatementL_Statement(
+                                                        Statement_DesignatorStatement(
+                                                          DesignatorStatement_DesignatorAssignExpr(
+                                                            Designator_Array(
+                                                              DesignatorArrayName(
+                                                               arrEnum
+                                                              ) [DesignatorArrayName]
+                                                              Expr_NonTernaryExpr(
+                                                                NonTernaryExpr(
+                                                                  AddopTermL_Term(
+                                                                    Term(
+                                                                      MulopFactorL_Factor(
+                                                                        Factor(
+                                                                          MinusOpt_Eps(
+                                                                          ) [MinusOpt_Eps]
+                                                                          Factor_Designator(
+                                                                            Designator_VarProperty(
+                                                                              DesignatorVarPropertyName(
+                                                                               Tip
+                                                                              ) [DesignatorVarPropertyName]
+                                                                              DesignatorPropertySuffix_EnumConst(
+                                                                               JEDAN
+                                                                              ) [DesignatorPropertySuffix_EnumConst]
+                                                                            ) [Designator_VarProperty]
+                                                                          ) [Factor_Designator]
+                                                                        ) [Factor]
+                                                                      ) [MulopFactorL_Factor]
+                                                                    ) [Term]
+                                                                  ) [AddopTermL_Term]
+                                                                ) [NonTernaryExpr]
+                                                              ) [Expr_NonTernaryExpr]
+                                                            ) [Designator_Array]
+                                                            Expr_NonTernaryExpr(
+                                                              NonTernaryExpr(
+                                                                AddopTermL_Term(
+                                                                  Term(
+                                                                    MulopFactorL_Factor(
+                                                                      Factor(
+                                                                        MinusOpt_Eps(
+                                                                        ) [MinusOpt_Eps]
+                                                                        Factor_Designator(
+                                                                          Designator_VarProperty(
+                                                                            DesignatorVarPropertyName(
+                                                                             Tip
+                                                                            ) [DesignatorVarPropertyName]
+                                                                            DesignatorPropertySuffix_EnumConst(
+                                                                             NULA
+                                                                            ) [DesignatorPropertySuffix_EnumConst]
+                                                                          ) [Designator_VarProperty]
+                                                                        ) [Factor_Designator]
+                                                                      ) [Factor]
+                                                                    ) [MulopFactorL_Factor]
+                                                                  ) [Term]
+                                                                ) [AddopTermL_Term]
+                                                              ) [NonTernaryExpr]
+                                                            ) [Expr_NonTernaryExpr]
+                                                          ) [DesignatorStatement_DesignatorAssignExpr]
+                                                        ) [Statement_DesignatorStatement]
+                                                        StatementL_Statement(
+                                                          Statement_DesignatorStatement(
+                                                            DesignatorStatement_DesignatorAssignExpr(
+                                                              Designator_Var(
+                                                               i2
+                                                              ) [Designator_Var]
+                                                              Expr_NonTernaryExpr(
+                                                                NonTernaryExpr(
+                                                                  AddopTermL_AddopTerm(
+                                                                    AddopTermL_Term(
+                                                                      Term(
+                                                                        MulopFactorL_MulopFactor(
+                                                                          MulopFactorL_Factor(
+                                                                            Factor(
+                                                                              MinusOpt_Eps(
+                                                                              ) [MinusOpt_Eps]
+                                                                              Factor_ExprParen(
+                                                                                Expr_NonTernaryExpr(
+                                                                                  NonTernaryExpr(
+                                                                                    AddopTermL_AddopTerm(
+                                                                                      AddopTermL_Term(
+                                                                                        Term(
+                                                                                          MulopFactorL_Factor(
+                                                                                            Factor(
+                                                                                              MinusOpt_Eps(
+                                                                                              ) [MinusOpt_Eps]
+                                                                                              Factor_Designator(
+                                                                                                Designator_VarProperty(
+                                                                                                  DesignatorVarPropertyName(
+                                                                                                   Tip2
+                                                                                                  ) [DesignatorVarPropertyName]
+                                                                                                  DesignatorPropertySuffix_EnumConst(
+                                                                                                   PET
+                                                                                                  ) [DesignatorPropertySuffix_EnumConst]
+                                                                                                ) [Designator_VarProperty]
+                                                                                              ) [Factor_Designator]
+                                                                                            ) [Factor]
+                                                                                          ) [MulopFactorL_Factor]
+                                                                                        ) [Term]
+                                                                                      ) [AddopTermL_Term]
+                                                                                      Addop_Plus(
+                                                                                      ) [Addop_Plus]
+                                                                                      Term(
+                                                                                        MulopFactorL_Factor(
+                                                                                          Factor(
+                                                                                            MinusOpt_Eps(
+                                                                                            ) [MinusOpt_Eps]
+                                                                                            Factor_Designator(
+                                                                                              Designator_VarProperty(
+                                                                                                DesignatorVarPropertyName(
+                                                                                                 Tip
+                                                                                                ) [DesignatorVarPropertyName]
+                                                                                                DesignatorPropertySuffix_EnumConst(
+                                                                                                 PET
+                                                                                                ) [DesignatorPropertySuffix_EnumConst]
+                                                                                              ) [Designator_VarProperty]
+                                                                                            ) [Factor_Designator]
+                                                                                          ) [Factor]
+                                                                                        ) [MulopFactorL_Factor]
+                                                                                      ) [Term]
+                                                                                    ) [AddopTermL_AddopTerm]
+                                                                                  ) [NonTernaryExpr]
+                                                                                ) [Expr_NonTernaryExpr]
+                                                                              ) [Factor_ExprParen]
+                                                                            ) [Factor]
+                                                                          ) [MulopFactorL_Factor]
+                                                                          Mulop_Mul(
+                                                                          ) [Mulop_Mul]
+                                                                          Factor(
+                                                                            MinusOpt_Eps(
+                                                                            ) [MinusOpt_Eps]
+                                                                            Factor_Num(
+                                                                             2
+                                                                            ) [Factor_Num]
+                                                                          ) [Factor]
+                                                                        ) [MulopFactorL_MulopFactor]
+                                                                      ) [Term]
+                                                                    ) [AddopTermL_Term]
+                                                                    Addop_Plus(
+                                                                    ) [Addop_Plus]
+                                                                    Term(
+                                                                      MulopFactorL_MulopFactor(
+                                                                        MulopFactorL_Factor(
+                                                                          Factor(
+                                                                            MinusOpt_Eps(
+                                                                            ) [MinusOpt_Eps]
+                                                                            Factor_Num(
+                                                                             3
+                                                                            ) [Factor_Num]
+                                                                          ) [Factor]
+                                                                        ) [MulopFactorL_Factor]
+                                                                        Mulop_Mul(
+                                                                        ) [Mulop_Mul]
+                                                                        Factor(
+                                                                          MinusOpt_Eps(
+                                                                          ) [MinusOpt_Eps]
+                                                                          Factor_Designator(
+                                                                            Designator_VarProperty(
+                                                                              DesignatorVarPropertyName(
+                                                                               Tip
+                                                                              ) [DesignatorVarPropertyName]
+                                                                              DesignatorPropertySuffix_EnumConst(
+                                                                               DESET
+                                                                              ) [DesignatorPropertySuffix_EnumConst]
+                                                                            ) [Designator_VarProperty]
+                                                                          ) [Factor_Designator]
+                                                                        ) [Factor]
+                                                                      ) [MulopFactorL_MulopFactor]
+                                                                    ) [Term]
+                                                                  ) [AddopTermL_AddopTerm]
+                                                                ) [NonTernaryExpr]
+                                                              ) [Expr_NonTernaryExpr]
+                                                            ) [DesignatorStatement_DesignatorAssignExpr]
+                                                          ) [Statement_DesignatorStatement]
+                                                          StatementL_Statement(
+                                                            Statement_DesignatorStatement(
+                                                              DesignatorStatement_DesignatorAssignExpr(
+                                                                Designator_Var(
+                                                                 i2
+                                                                ) [Designator_Var]
+                                                                Expr_NonTernaryExpr(
+                                                                  NonTernaryExpr(
+                                                                    AddopTermL_Term(
+                                                                      Term(
+                                                                        MulopFactorL_MulopFactor(
+                                                                          MulopFactorL_Factor(
+                                                                            Factor(
+                                                                              MinusOpt_Eps(
+                                                                              ) [MinusOpt_Eps]
+                                                                              Factor_ExprParen(
+                                                                                Expr_NonTernaryExpr(
+                                                                                  NonTernaryExpr(
+                                                                                    AddopTermL_AddopTerm(
+                                                                                      AddopTermL_Term(
+                                                                                        Term(
+                                                                                          MulopFactorL_Factor(
+                                                                                            Factor(
+                                                                                              MinusOpt_Eps(
+                                                                                              ) [MinusOpt_Eps]
+                                                                                              Factor_Designator(
+                                                                                                Designator_VarProperty(
+                                                                                                  DesignatorVarPropertyName(
+                                                                                                   Tip
+                                                                                                  ) [DesignatorVarPropertyName]
+                                                                                                  DesignatorPropertySuffix_EnumConst(
+                                                                                                   PET
+                                                                                                  ) [DesignatorPropertySuffix_EnumConst]
+                                                                                                ) [Designator_VarProperty]
+                                                                                              ) [Factor_Designator]
+                                                                                            ) [Factor]
+                                                                                          ) [MulopFactorL_Factor]
+                                                                                        ) [Term]
+                                                                                      ) [AddopTermL_Term]
+                                                                                      Addop_Plus(
+                                                                                      ) [Addop_Plus]
+                                                                                      Term(
+                                                                                        MulopFactorL_Factor(
+                                                                                          Factor(
+                                                                                            MinusOpt_Eps(
+                                                                                            ) [MinusOpt_Eps]
+                                                                                            Factor_Designator(
+                                                                                              Designator_Var(
+                                                                                               e1
+                                                                                              ) [Designator_Var]
+                                                                                            ) [Factor_Designator]
+                                                                                          ) [Factor]
+                                                                                        ) [MulopFactorL_Factor]
+                                                                                      ) [Term]
+                                                                                    ) [AddopTermL_AddopTerm]
+                                                                                  ) [NonTernaryExpr]
+                                                                                ) [Expr_NonTernaryExpr]
+                                                                              ) [Factor_ExprParen]
+                                                                            ) [Factor]
+                                                                          ) [MulopFactorL_Factor]
+                                                                          Mulop_Mul(
+                                                                          ) [Mulop_Mul]
+                                                                          Factor(
+                                                                            MinusOpt_Eps(
+                                                                            ) [MinusOpt_Eps]
+                                                                            Factor_Num(
+                                                                             2
+                                                                            ) [Factor_Num]
+                                                                          ) [Factor]
+                                                                        ) [MulopFactorL_MulopFactor]
+                                                                      ) [Term]
+                                                                    ) [AddopTermL_Term]
+                                                                  ) [NonTernaryExpr]
+                                                                ) [Expr_NonTernaryExpr]
+                                                              ) [DesignatorStatement_DesignatorAssignExpr]
+                                                            ) [Statement_DesignatorStatement]
+                                                            StatementL_Eps(
+                                                            ) [StatementL_Eps]
+                                                          ) [StatementL_Statement]
+                                                        ) [StatementL_Statement]
+                                                      ) [StatementL_Statement]
+                                                    ) [StatementL_Statement]
+                                                  ) [StatementL_Statement]
+                                                ) [StatementL_Statement]
+                                              ) [StatementL_Statement]
+                                            ) [StatementL_Statement]
+                                          ) [StatementL_Statement]
+                                        ) [StatementL_Statement]
+                                      ) [StatementL_Statement]
+                                    ) [StatementL_Statement]
+                                  ) [StatementL_Statement]
+                                ) [StatementL_Statement]
+                              ) [StatementL_Statement]
+                            ) [StatementL_Statement]
+                          ) [StatementL_Statement]
+                        ) [StatementL_Statement]
+                      ) [StatementL_Statement]
+                    ) [StatementL_Statement]
+                  ) [StatementL_Statement]
+                ) [StatementL_Statement]
+              ) [StatementL_Statement]
+            ) [MethodDecl]
+            MethodDeclL_Eps(
+            ) [MethodDeclL_Eps]
+          ) [MethodDeclL_MethodDecl]
+        ) [MethodDeclL_MethodDecl]
+      ) [MethodDeclL_MethodDecl]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  09:50:44,970 - =================================================================
+INFO  09:50:44,988 - =================================================================
+INFO  09:50:44,988 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,101 @@
+INFO  11:23:51,052 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:23:51,074 - #2 program
+INFO  11:23:51,074 - #45 Keske
+INFO  11:23:51,074 - #6 const
+INFO  11:23:51,075 - #45 int
+INFO  11:23:51,075 - #45 pi
+INFO  11:23:51,075 - #7 =
+INFO  11:23:51,075 - #46 3
+INFO  11:23:51,075 - #5 ;
+INFO  11:23:51,076 - #45 int
+INFO  11:23:51,076 - #45 x
+INFO  11:23:51,076 - #5 ;
+INFO  11:23:51,076 - #45 int
+INFO  11:23:51,077 - #45 y
+INFO  11:23:51,077 - #9 [
+INFO  11:23:51,077 - #10 ]
+INFO  11:23:51,077 - #8 ,
+INFO  11:23:51,077 - #45 z
+INFO  11:23:51,077 - #5 ;
+INFO  11:23:51,078 - #3 {
+INFO  11:23:51,078 - #12 void
+INFO  11:23:51,078 - #45 main
+INFO  11:23:51,078 - #13 (
+INFO  11:23:51,079 - #14 )
+INFO  11:23:51,079 - #3 {
+INFO  11:23:51,079 - #4 }
+INFO  11:23:51,079 - #4 }
+INFO  11:23:51,082 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Eps(
+        ) [ConstVarEnumDecl_Eps]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           pi
+            Constant_Num(
+             3
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Var(
+         x
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst_Array(
+       y
+      ) [VarDeclFirst_Array]
+      VarDeclNext_Comma(
+        VarDeclFirst_Var(
+         z
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDeclNext_Comma]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDeclList(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDeclList]
+    MethodDeclL_Eps(
+    ) [MethodDeclL_Eps]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  11:23:51,082 - =================================================================
+ERROR 11:23:51,097 - Visestruka definicija promenljive: x na liniji 5
+ERROR 11:23:51,097 - Visestruka definicija promenljive: y na liniji 6
+ERROR 11:23:51,097 - Visestruka definicija promenljive: z na liniji 6
+INFO  11:23:51,097 - =================================================================
+ERROR 11:23:51,097 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,117 @@
+INFO  11:16:40,038 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  11:16:40,067 - #2 program
+INFO  11:16:40,067 - #45 Keske
+INFO  11:16:40,067 - #45 int
+INFO  11:16:40,068 - #45 x
+INFO  11:16:40,068 - #5 ;
+INFO  11:16:40,069 - #3 {
+INFO  11:16:40,070 - #12 void
+INFO  11:16:40,070 - #45 main
+INFO  11:16:40,070 - #13 (
+INFO  11:16:40,070 - #45 int
+INFO  11:16:40,070 - #45 b
+INFO  11:16:40,070 - #9 [
+INFO  11:16:40,070 - #10 ]
+INFO  11:16:40,070 - #8 ,
+INFO  11:16:40,071 - #45 int
+INFO  11:16:40,071 - #45 a
+INFO  11:16:40,071 - #8 ,
+INFO  11:16:40,071 - #45 char
+INFO  11:16:40,071 - #45 z
+INFO  11:16:40,071 - #8 ,
+INFO  11:16:40,071 - #45 bool
+INFO  11:16:40,071 - #45 a
+INFO  11:16:40,071 - #14 )
+INFO  11:16:40,072 - #45 int
+INFO  11:16:40,072 - #45 test
+INFO  11:16:40,072 - #5 ;
+INFO  11:16:40,072 - #3 {
+INFO  11:16:40,073 - #4 }
+INFO  11:16:40,073 - #4 }
+INFO  11:16:40,075 - Program(
+ Keske
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Eps(
+    ) [ConstVarEnumDecl_Eps]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst(
+       x
+        Array_Eps(
+        ) [Array_Eps]
+      ) [VarDeclFirst]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclList(
+    ReturnType_Void(
+    ) [ReturnType_Void]
+   main
+    FormParsL_Pars(
+      FormPars(
+        Type(
+         int
+        ) [Type]
+        FormParsFirst(
+         b
+          Array_Brackets(
+          ) [Array_Brackets]
+        ) [FormParsFirst]
+        FormParsNext_Comma(
+          Type(
+           int
+          ) [Type]
+          FormParsFirst(
+           a
+            Array_Eps(
+            ) [Array_Eps]
+          ) [FormParsFirst]
+          FormParsNext_Comma(
+            Type(
+             char
+            ) [Type]
+            FormParsFirst(
+             z
+              Array_Eps(
+              ) [Array_Eps]
+            ) [FormParsFirst]
+            FormParsNext_Comma(
+              Type(
+               bool
+              ) [Type]
+              FormParsFirst(
+               a
+                Array_Eps(
+                ) [Array_Eps]
+              ) [FormParsFirst]
+              FormParsNext_Eps(
+              ) [FormParsNext_Eps]
+            ) [FormParsNext_Comma]
+          ) [FormParsNext_Comma]
+        ) [FormParsNext_Comma]
+      ) [FormPars]
+    ) [FormParsL_Pars]
+    VarDeclL_VarDecl(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst(
+         test
+          Array_Eps(
+          ) [Array_Eps]
+        ) [VarDeclFirst]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+    ) [VarDeclL_VarDecl]
+    StatementL_Eps(
+    ) [StatementL_Eps]
+  ) [MethodDeclList]
+) [Program]
+INFO  11:16:40,075 - =================================================================

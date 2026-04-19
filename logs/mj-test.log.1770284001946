@@ -1,0 +1,21 @@
+INFO  10:32:58,966 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  10:32:59,142 - #2 program
+INFO  10:32:59,142 - #45 Keske
+INFO  10:32:59,142 - #6 const
+INFO  10:32:59,143 - #45 int
+INFO  10:32:59,143 - #45 pi
+INFO  10:32:59,144 - #7 =
+INFO  10:32:59,144 - #46 3
+INFO  10:32:59,144 - #5 ;
+INFO  10:32:59,155 - #6 const
+INFO  10:32:59,156 - #45 char
+INFO  10:32:59,156 - #45 c
+INFO  10:32:59,156 - #7 =
+INFO  10:32:59,157 - #47 c
+INFO  10:32:59,157 - #5 ;
+INFO  10:32:59,157 - #6 const
+INFO  10:32:59,157 - #45 bool
+INFO  10:32:59,157 - #45 b
+INFO  10:32:59,157 - #7 =
+INFO  10:32:59,157 - #48 1
+INFO  10:32:59,157 - #5 ;

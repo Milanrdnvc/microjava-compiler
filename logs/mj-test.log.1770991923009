@@ -1,0 +1,337 @@
+INFO  15:11:47,429 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  15:11:47,461 - #2 program
+INFO  15:11:47,461 - #45 Keske
+INFO  15:11:47,461 - #6 const
+INFO  15:11:47,462 - #45 int
+INFO  15:11:47,462 - #45 pi
+INFO  15:11:47,462 - #7 =
+INFO  15:11:47,462 - #46 3
+INFO  15:11:47,462 - #5 ;
+INFO  15:11:47,463 - #45 int
+INFO  15:11:47,463 - #45 x
+INFO  15:11:47,463 - #8 ,
+INFO  15:11:47,463 - #45 y
+INFO  15:11:47,463 - #9 [
+INFO  15:11:47,463 - #10 ]
+INFO  15:11:47,464 - #5 ;
+INFO  15:11:47,464 - #11 enum
+INFO  15:11:47,464 - #45 MyType
+INFO  15:11:47,464 - #3 {
+INFO  15:11:47,464 - #45 NULA
+INFO  15:11:47,464 - #8 ,
+INFO  15:11:47,465 - #45 JEDAN
+INFO  15:11:47,465 - #7 =
+INFO  15:11:47,465 - #46 5
+INFO  15:11:47,465 - #8 ,
+INFO  15:11:47,465 - #45 DVA
+INFO  15:11:47,465 - #4 }
+INFO  15:11:47,466 - #3 {
+INFO  15:11:47,466 - #45 int
+INFO  15:11:47,466 - #45 f
+INFO  15:11:47,466 - #13 (
+INFO  15:11:47,466 - #45 int
+INFO  15:11:47,466 - #45 x
+INFO  15:11:47,466 - #14 )
+INFO  15:11:47,467 - #3 {
+INFO  15:11:47,467 - #18 return
+INFO  15:11:47,467 - #45 x
+INFO  15:11:47,468 - #5 ;
+INFO  15:11:47,469 - #4 }
+INFO  15:11:47,469 - #12 void
+INFO  15:11:47,469 - #45 main
+INFO  15:11:47,470 - #13 (
+INFO  15:11:47,470 - #45 int
+INFO  15:11:47,470 - #41 *
+ERROR 15:11:47,470 - 
+Sintaksna greska na liniji 15
+INFO  15:11:47,470 - #14 )
+INFO  15:11:47,470 - #45 int
+INFO  15:11:47,470 - #45 a
+INFO  15:11:47,470 - #8 ,
+INFO  15:11:47,471 - #45 b
+INFO  15:11:47,471 - #8 ,
+INFO  15:11:47,471 - #45 c
+INFO  15:11:47,471 - #9 [
+INFO  15:11:47,471 - #10 ]
+INFO  15:11:47,471 - #5 ;
+INFO  15:11:47,471 - #45 char
+INFO  15:11:47,471 - #45 carr
+INFO  15:11:47,471 - #9 [
+INFO  15:11:47,471 - #10 ]
+INFO  15:11:47,471 - #5 ;
+INFO  15:11:47,471 - #45 char
+INFO  15:11:47,471 - #45 test
+INFO  15:11:47,471 - #5 ;
+INFO  15:11:47,471 - #3 {
+INFO  15:11:47,471 - #45 a
+INFO  15:11:47,471 - #7 =
+INFO  15:11:47,471 - #46 3
+INFO  15:11:47,471 - #5 ;
+INFO  15:11:47,471 - #45 b
+INFO  15:11:47,471 - #7 =
+INFO  15:11:47,472 - #46 0
+INFO  15:11:47,472 - #5 ;
+INFO  15:11:47,472 - #45 carr
+INFO  15:11:47,472 - #7 =
+INFO  15:11:47,472 - #34 new
+INFO  15:11:47,472 - #45 char
+INFO  15:11:47,472 - #9 [
+INFO  15:11:47,472 - #46 10
+INFO  15:11:47,472 - #10 ]
+INFO  15:11:47,472 - #5 ;
+INFO  15:11:47,472 - #45 test
+INFO  15:11:47,472 - #7 =
+INFO  15:11:47,472 - #45 a
+INFO  15:11:47,472 - #35 ==
+INFO  15:11:47,472 - #46 4
+INFO  15:11:47,472 - #25 ?
+INFO  15:11:47,472 - #48 c
+INFO  15:11:47,472 - #26 :
+INFO  15:11:47,472 - #13 (
+INFO  15:11:47,472 - #45 a
+INFO  15:11:47,472 - #37 <
+INFO  15:11:47,472 - #46 5
+INFO  15:11:47,472 - #25 ?
+INFO  15:11:47,472 - #48 a
+INFO  15:11:47,472 - #26 :
+INFO  15:11:47,472 - #48 b
+INFO  15:11:47,473 - #14 )
+INFO  15:11:47,473 - #5 ;
+INFO  15:11:47,473 - #21 switch
+INFO  15:11:47,473 - #13 (
+INFO  15:11:47,473 - #46 10
+INFO  15:11:47,473 - #14 )
+INFO  15:11:47,473 - #3 {
+INFO  15:11:47,473 - #27 case
+INFO  15:11:47,473 - #46 5
+INFO  15:11:47,473 - #26 :
+INFO  15:11:47,473 - #20 print
+INFO  15:11:47,473 - #13 (
+INFO  15:11:47,473 - #46 5
+INFO  15:11:47,473 - #14 )
+INFO  15:11:47,473 - #5 ;
+INFO  15:11:47,473 - #27 case
+INFO  15:11:47,473 - #46 10
+INFO  15:11:47,473 - #26 :
+INFO  15:11:47,473 - #20 print
+INFO  15:11:47,473 - #13 (
+INFO  15:11:47,473 - #46 10
+INFO  15:11:47,473 - #14 )
+INFO  15:11:47,473 - #5 ;
+INFO  15:11:47,473 - #27 case
+INFO  15:11:47,473 - #46 11
+INFO  15:11:47,473 - #26 :
+INFO  15:11:47,473 - #3 {
+INFO  15:11:47,474 - #20 print
+INFO  15:11:47,474 - #13 (
+INFO  15:11:47,474 - #46 11
+INFO  15:11:47,474 - #14 )
+INFO  15:11:47,474 - #5 ;
+INFO  15:11:47,474 - #4 }
+INFO  15:11:47,474 - #27 case
+INFO  15:11:47,474 - #46 12
+INFO  15:11:47,474 - #26 :
+INFO  15:11:47,474 - #3 {
+INFO  15:11:47,474 - #20 print
+INFO  15:11:47,474 - #13 (
+INFO  15:11:47,474 - #46 12
+INFO  15:11:47,474 - #14 )
+INFO  15:11:47,474 - #5 ;
+INFO  15:11:47,474 - #4 }
+INFO  15:11:47,474 - #4 }
+INFO  15:11:47,474 - #22 for
+INFO  15:11:47,474 - #13 (
+INFO  15:11:47,474 - #45 a
+INFO  15:11:47,474 - #7 =
+INFO  15:11:47,474 - #46 10
+INFO  15:11:47,474 - #5 ;
+INFO  15:11:47,474 - #45 a
+INFO  15:11:47,474 - #40 <=
+INFO  15:11:47,475 - #46 15
+INFO  15:11:47,475 - #5 ;
+INFO  15:11:47,475 - #45 a
+INFO  15:11:47,475 - #23 ++
+INFO  15:11:47,475 - #14 )
+INFO  15:11:47,475 - #3 {
+INFO  15:11:47,475 - #15 if
+INFO  15:11:47,475 - #13 (
+INFO  15:11:47,475 - #45 a
+INFO  15:11:47,475 - #35 ==
+INFO  15:11:47,475 - #46 10
+INFO  15:11:47,475 - #14 )
+INFO  15:11:47,475 - #17 continue
+INFO  15:11:47,475 - #5 ;
+INFO  15:11:47,475 - #15 if
+INFO  15:11:47,475 - #13 (
+INFO  15:11:47,475 - #45 a
+INFO  15:11:47,475 - #35 ==
+INFO  15:11:47,475 - #46 14
+INFO  15:11:47,475 - #14 )
+INFO  15:11:47,475 - #16 break
+INFO  15:11:47,475 - #5 ;
+INFO  15:11:47,475 - #22 for
+INFO  15:11:47,475 - #13 (
+INFO  15:11:47,475 - #45 b
+INFO  15:11:47,475 - #7 =
+INFO  15:11:47,475 - #46 30
+INFO  15:11:47,476 - #5 ;
+INFO  15:11:47,476 - #45 b
+INFO  15:11:47,476 - #40 <=
+INFO  15:11:47,476 - #46 40
+INFO  15:11:47,476 - #5 ;
+INFO  15:11:47,476 - #45 b
+INFO  15:11:47,476 - #23 ++
+INFO  15:11:47,476 - #14 )
+INFO  15:11:47,476 - #3 {
+INFO  15:11:47,476 - #15 if
+INFO  15:11:47,476 - #13 (
+INFO  15:11:47,476 - #45 b
+INFO  15:11:47,476 - #35 ==
+INFO  15:11:47,476 - #46 30
+INFO  15:11:47,476 - #14 )
+INFO  15:11:47,476 - #17 continue
+INFO  15:11:47,476 - #5 ;
+INFO  15:11:47,476 - #15 if
+INFO  15:11:47,476 - #13 (
+INFO  15:11:47,476 - #45 b
+INFO  15:11:47,476 - #35 ==
+INFO  15:11:47,476 - #46 35
+INFO  15:11:47,476 - #14 )
+INFO  15:11:47,476 - #16 break
+INFO  15:11:47,476 - #5 ;
+INFO  15:11:47,476 - #4 }
+INFO  15:11:47,476 - #4 }
+INFO  15:11:47,476 - #4 }
+INFO  15:11:47,476 - #4 }
+ERROR 15:11:47,477 - Oporavak od greske: MethodDecl
+INFO  15:11:47,489 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Enum(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Const(
+        ConstVarEnumDecl_Eps(
+        ) [ConstVarEnumDecl_Eps]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          ConstDeclFirst(
+           pi
+            Constant_Num(
+             3
+            ) [Constant_Num]
+          ) [ConstDeclFirst]
+          ConstDeclNext_Eps(
+          ) [ConstDeclNext_Eps]
+        ) [ConstDecl]
+      ) [ConstVarEnumDecl_Const]
+      VarDecl_Var(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Var(
+         x
+        ) [VarDeclFirst_Var]
+        VarDeclNext_Comma(
+          VarDeclFirst_Array(
+           y
+          ) [VarDeclFirst_Array]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDeclNext_Comma]
+      ) [VarDecl_Var]
+    ) [ConstVarEnumDecl_Var]
+    EnumDecl(
+      EnumName(
+       MyType
+      ) [EnumName]
+      EnumDeclFirst(
+       NULA
+        NumConst_Eps(
+        ) [NumConst_Eps]
+      ) [EnumDeclFirst]
+      EnumDeclNext_Comma(
+        EnumDeclFirst(
+         JEDAN
+          NumConst_Num(
+           5
+          ) [NumConst_Num]
+        ) [EnumDeclFirst]
+        EnumDeclNext_Comma(
+          EnumDeclFirst(
+           DVA
+            NumConst_Eps(
+            ) [NumConst_Eps]
+          ) [EnumDeclFirst]
+          EnumDeclNext_Eps(
+          ) [EnumDeclNext_Eps]
+        ) [EnumDeclNext_Comma]
+      ) [EnumDeclNext_Comma]
+    ) [EnumDecl]
+  ) [ConstVarEnumDecl_Enum]
+  MethodDeclL_MethodDecl(
+    MethodDecl_Decl(
+      ReturnType_Type(
+        Type(
+         int
+        ) [Type]
+      ) [ReturnType_Type]
+      MethodName(
+       f
+      ) [MethodName]
+      FormParsL_Pars(
+        FormPars(
+          Type(
+           int
+          ) [Type]
+          FormParsFirst_Var(
+           x
+          ) [FormParsFirst_Var]
+          FormParsNext_Eps(
+          ) [FormParsNext_Eps]
+        ) [FormPars]
+      ) [FormParsL_Pars]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Return(
+          ExprOpt_Expr(
+            Expr_NonTernaryExpr(
+              NonTernaryExpr(
+                AddopTermL_Term(
+                  Term(
+                    MulopFactorL_Factor(
+                      Factor(
+                        MinusOpt_Eps(
+                        ) [MinusOpt_Eps]
+                        Factor_Designator(
+                          Designator_Var(
+                           x
+                          ) [Designator_Var]
+                        ) [Factor_Designator]
+                      ) [Factor]
+                    ) [MulopFactorL_Factor]
+                  ) [Term]
+                ) [AddopTermL_Term]
+              ) [NonTernaryExpr]
+            ) [Expr_NonTernaryExpr]
+          ) [ExprOpt_Expr]
+        ) [Statement_Return]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl_Decl]
+    MethodDeclL_MethodDecl(
+      MethodDecl_Error(
+      ) [MethodDecl_Error]
+      MethodDeclL_Eps(
+      ) [MethodDeclL_Eps]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  15:11:47,489 - =================================================================
+ERROR 15:11:47,494 - Program nema adekvatnu main metodu. na liniji 1
+INFO  15:11:47,494 - =================================================================
+ERROR 15:11:47,494 - Parsiranje NIJE uspesno zavrseno!

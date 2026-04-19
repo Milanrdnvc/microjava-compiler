@@ -1,0 +1,155 @@
+INFO  12:37:18,254 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  12:37:18,282 - #2 program
+INFO  12:37:18,283 - #45 Keske
+INFO  12:37:18,283 - #45 int
+INFO  12:37:18,283 - #45 x
+INFO  12:37:18,283 - #5 ;
+INFO  12:37:18,284 - #3 {
+INFO  12:37:18,284 - #12 void
+INFO  12:37:18,285 - #45 main
+INFO  12:37:18,285 - #13 (
+INFO  12:37:18,285 - #45 int
+INFO  12:37:18,285 - #45 b
+INFO  12:37:18,285 - #9 [
+INFO  12:37:18,285 - #10 ]
+INFO  12:37:18,285 - #8 ,
+INFO  12:37:18,286 - #45 int
+INFO  12:37:18,286 - #45 a
+INFO  12:37:18,286 - #8 ,
+INFO  12:37:18,286 - #45 char
+INFO  12:37:18,286 - #45 z
+INFO  12:37:18,286 - #8 ,
+INFO  12:37:18,286 - #45 bool
+INFO  12:37:18,286 - #45 a
+INFO  12:37:18,286 - #14 )
+INFO  12:37:18,287 - #45 int
+INFO  12:37:18,287 - #45 test
+INFO  12:37:18,287 - #5 ;
+INFO  12:37:18,287 - #3 {
+INFO  12:37:18,287 - #45 test
+INFO  12:37:18,287 - #7 =
+INFO  12:37:18,288 - #45 a
+INFO  12:37:18,288 - #5 ;
+INFO  12:37:18,289 - #17 continue
+INFO  12:37:18,289 - #5 ;
+INFO  12:37:18,289 - #4 }
+INFO  12:37:18,298 - #4 }
+INFO  12:37:18,301 - Program(
+ Keske
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Eps(
+    ) [ConstVarEnumDecl_Eps]
+    VarDecl(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst(
+       x
+        Array_Eps(
+        ) [Array_Eps]
+      ) [VarDeclFirst]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclList(
+    ReturnType_Void(
+    ) [ReturnType_Void]
+   main
+    FormParsL_Pars(
+      FormPars(
+        Type(
+         int
+        ) [Type]
+        FormParsFirst(
+         b
+          Array_Brackets(
+          ) [Array_Brackets]
+        ) [FormParsFirst]
+        FormParsNext_Comma(
+          Type(
+           int
+          ) [Type]
+          FormParsFirst(
+           a
+            Array_Eps(
+            ) [Array_Eps]
+          ) [FormParsFirst]
+          FormParsNext_Comma(
+            Type(
+             char
+            ) [Type]
+            FormParsFirst(
+             z
+              Array_Eps(
+              ) [Array_Eps]
+            ) [FormParsFirst]
+            FormParsNext_Comma(
+              Type(
+               bool
+              ) [Type]
+              FormParsFirst(
+               a
+                Array_Eps(
+                ) [Array_Eps]
+              ) [FormParsFirst]
+              FormParsNext_Eps(
+              ) [FormParsNext_Eps]
+            ) [FormParsNext_Comma]
+          ) [FormParsNext_Comma]
+        ) [FormParsNext_Comma]
+      ) [FormPars]
+    ) [FormParsL_Pars]
+    VarDeclL_VarDecl(
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst(
+         test
+          Array_Eps(
+          ) [Array_Eps]
+        ) [VarDeclFirst]
+        VarDeclNext_Eps(
+        ) [VarDeclNext_Eps]
+      ) [VarDecl]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+    ) [VarDeclL_VarDecl]
+    StatementL_Statement(
+      Statement_DesignatorStatement(
+        DesignatorStatement_Designator(
+          Designator(
+           test
+            DesignatorNext_Eps(
+            ) [DesignatorNext_Eps]
+          ) [Designator]
+          Expr_AddopTerm(
+            Term(
+              MinusOpt_Eps(
+              ) [MinusOpt_Eps]
+              Factor_Designator(
+                Designator(
+                 a
+                  DesignatorNext_Eps(
+                  ) [DesignatorNext_Eps]
+                ) [Designator]
+              ) [Factor_Designator]
+              MulopFactorL_Eps(
+              ) [MulopFactorL_Eps]
+            ) [Term]
+            AddopTermL_Eps(
+            ) [AddopTermL_Eps]
+          ) [Expr_AddopTerm]
+        ) [DesignatorStatement_Designator]
+      ) [Statement_DesignatorStatement]
+      StatementL_Statement(
+        Statement_Continue(
+        ) [Statement_Continue]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [StatementL_Statement]
+  ) [MethodDeclList]
+) [Program]
+INFO  12:37:18,301 - =================================================================

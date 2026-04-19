@@ -1,0 +1,301 @@
+INFO  12:43:40,951 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  12:43:40,981 - #2 program
+INFO  12:43:40,982 - #45 Keske
+INFO  12:43:40,982 - #6 const
+INFO  12:43:40,982 - #45 int
+INFO  12:43:40,982 - #45 pi
+INFO  12:43:40,983 - #7 =
+INFO  12:43:40,983 - #46 3
+INFO  12:43:40,983 - #5 ;
+INFO  12:43:40,983 - #45 int
+INFO  12:43:40,984 - #45 x
+INFO  12:43:40,984 - #5 ;
+INFO  12:43:40,984 - #45 int
+INFO  12:43:40,985 - #45 y
+INFO  12:43:40,985 - #9 [
+INFO  12:43:40,985 - #10 ]
+INFO  12:43:40,985 - #8 ,
+INFO  12:43:40,985 - #45 z
+INFO  12:43:40,985 - #5 ;
+INFO  12:43:40,985 - #6 const
+INFO  12:43:40,985 - #45 bool
+INFO  12:43:40,985 - #45 t
+INFO  12:43:40,985 - #7 =
+INFO  12:43:40,985 - #47 1
+INFO  12:43:40,986 - #5 ;
+INFO  12:43:40,986 - #3 {
+INFO  12:43:40,986 - #12 void
+INFO  12:43:40,986 - #45 main
+INFO  12:43:40,986 - #13 (
+INFO  12:43:40,986 - #14 )
+INFO  12:43:40,986 - #45 int
+INFO  12:43:40,987 - #45 x
+INFO  12:43:40,987 - #5 ;
+INFO  12:43:40,987 - #45 int
+INFO  12:43:40,987 - #45 y
+INFO  12:43:40,987 - #9 [
+INFO  12:43:40,987 - #10 ]
+INFO  12:43:40,987 - #5 ;
+INFO  12:43:40,987 - #45 char
+INFO  12:43:40,987 - #45 z
+INFO  12:43:40,987 - #5 ;
+INFO  12:43:40,987 - #45 int
+INFO  12:43:40,987 - #45 eol
+INFO  12:43:40,987 - #5 ;
+INFO  12:43:40,987 - #3 {
+INFO  12:43:40,987 - #4 }
+INFO  12:43:40,988 - #45 int
+INFO  12:43:40,988 - #45 foo
+INFO  12:43:40,988 - #13 (
+INFO  12:43:40,988 - #45 int
+INFO  12:43:40,988 - #45 fp1
+INFO  12:43:40,988 - #8 ,
+INFO  12:43:40,988 - #45 char
+INFO  12:43:40,988 - #45 fp2
+INFO  12:43:40,988 - #9 [
+INFO  12:43:40,988 - #10 ]
+INFO  12:43:40,988 - #8 ,
+INFO  12:43:40,989 - #45 bool
+INFO  12:43:40,989 - #45 test
+INFO  12:43:40,989 - #14 )
+INFO  12:43:40,989 - #45 int
+INFO  12:43:40,989 - #45 abc
+INFO  12:43:40,989 - #5 ;
+INFO  12:43:40,989 - #45 int
+INFO  12:43:40,989 - #45 c
+INFO  12:43:40,989 - #5 ;
+INFO  12:43:40,989 - #45 int
+INFO  12:43:40,990 - #45 d
+INFO  12:43:40,990 - #5 ;
+INFO  12:43:40,990 - #45 int
+INFO  12:43:40,990 - #45 e
+INFO  12:43:40,990 - #5 ;
+INFO  12:43:40,990 - #3 {
+INFO  12:43:40,990 - #4 }
+INFO  12:43:40,990 - #4 }
+INFO  12:43:40,993 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConstVarEnumDecl_Const(
+    ConstVarEnumDecl_Var(
+      ConstVarEnumDecl_Var(
+        ConstVarEnumDecl_Const(
+          ConstVarEnumDecl_Eps(
+          ) [ConstVarEnumDecl_Eps]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            ConstDeclFirst(
+             pi
+              Constant_Num(
+               3
+              ) [Constant_Num]
+            ) [ConstDeclFirst]
+            ConstDeclNext_Eps(
+            ) [ConstDeclNext_Eps]
+          ) [ConstDecl]
+        ) [ConstVarEnumDecl_Const]
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           x
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDecl]
+      ) [ConstVarEnumDecl_Var]
+      VarDecl(
+        Type(
+         int
+        ) [Type]
+        VarDeclFirst_Array(
+         y
+        ) [VarDeclFirst_Array]
+        VarDeclNext_Comma(
+          VarDeclFirst_Var(
+           z
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDeclNext_Comma]
+      ) [VarDecl]
+    ) [ConstVarEnumDecl_Var]
+    ConstDecl(
+      Type(
+       bool
+      ) [Type]
+      ConstDeclFirst(
+       t
+        Constant_Bool(
+         1
+        ) [Constant_Bool]
+      ) [ConstDeclFirst]
+      ConstDeclNext_Eps(
+      ) [ConstDeclNext_Eps]
+    ) [ConstDecl]
+  ) [ConstVarEnumDecl_Const]
+  MethodDeclL_MethodDecl(
+    MethodDecl(
+      ReturnType_Void(
+      ) [ReturnType_Void]
+      MethodName(
+       main
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_VarDecl(
+        VarDecl(
+          Type(
+           int
+          ) [Type]
+          VarDeclFirst_Var(
+           x
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDecl]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclFirst_Array(
+             y
+            ) [VarDeclFirst_Array]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl]
+          VarDeclL_VarDecl(
+            VarDecl(
+              Type(
+               char
+              ) [Type]
+              VarDeclFirst_Var(
+               z
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDecl]
+            VarDeclL_VarDecl(
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                VarDeclFirst_Var(
+                 eol
+                ) [VarDeclFirst_Var]
+                VarDeclNext_Eps(
+                ) [VarDeclNext_Eps]
+              ) [VarDecl]
+              VarDeclL_Eps(
+              ) [VarDeclL_Eps]
+            ) [VarDeclL_VarDecl]
+          ) [VarDeclL_VarDecl]
+        ) [VarDeclL_VarDecl]
+      ) [VarDeclL_VarDecl]
+      StatementL_Eps(
+      ) [StatementL_Eps]
+    ) [MethodDecl]
+    MethodDeclL_MethodDecl(
+      MethodDecl(
+        ReturnType_Type(
+          Type(
+           int
+          ) [Type]
+        ) [ReturnType_Type]
+        MethodName(
+         foo
+        ) [MethodName]
+        FormParsL_Pars(
+          FormPars(
+            Type(
+             int
+            ) [Type]
+            FormParsFirst_Var(
+             fp1
+            ) [FormParsFirst_Var]
+            FormParsNext_Comma(
+              Type(
+               char
+              ) [Type]
+              FormParsFirst_Array(
+               fp2
+              ) [FormParsFirst_Array]
+              FormParsNext_Comma(
+                Type(
+                 bool
+                ) [Type]
+                FormParsFirst_Var(
+                 test
+                ) [FormParsFirst_Var]
+                FormParsNext_Eps(
+                ) [FormParsNext_Eps]
+              ) [FormParsNext_Comma]
+            ) [FormParsNext_Comma]
+          ) [FormPars]
+        ) [FormParsL_Pars]
+        VarDeclL_VarDecl(
+          VarDecl(
+            Type(
+             int
+            ) [Type]
+            VarDeclFirst_Var(
+             abc
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl]
+          VarDeclL_VarDecl(
+            VarDecl(
+              Type(
+               int
+              ) [Type]
+              VarDeclFirst_Var(
+               c
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDecl]
+            VarDeclL_VarDecl(
+              VarDecl(
+                Type(
+                 int
+                ) [Type]
+                VarDeclFirst_Var(
+                 d
+                ) [VarDeclFirst_Var]
+                VarDeclNext_Eps(
+                ) [VarDeclNext_Eps]
+              ) [VarDecl]
+              VarDeclL_VarDecl(
+                VarDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclFirst_Var(
+                   e
+                  ) [VarDeclFirst_Var]
+                  VarDeclNext_Eps(
+                  ) [VarDeclNext_Eps]
+                ) [VarDecl]
+                VarDeclL_Eps(
+                ) [VarDeclL_Eps]
+              ) [VarDeclL_VarDecl]
+            ) [VarDeclL_VarDecl]
+          ) [VarDeclL_VarDecl]
+        ) [VarDeclL_VarDecl]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [MethodDecl]
+      MethodDeclL_Eps(
+      ) [MethodDeclL_Eps]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  12:43:40,993 - =================================================================
+INFO  12:43:40,997 - =================================================================
+INFO  12:43:40,997 - Parsiranje uspesno zavrseno!

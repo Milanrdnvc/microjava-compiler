@@ -1,0 +1,927 @@
+INFO  09:43:55,071 - Compiling source file: D:\School\ETF\Cetvrta godina\PP1\Projekat\MJCompiler\test\program.mj
+INFO  09:43:55,103 - #2 program
+INFO  09:43:55,103 - #45 test302
+INFO  09:43:55,103 - #6 const
+INFO  09:43:55,104 - #45 int
+INFO  09:43:55,104 - #45 jedan
+INFO  09:43:55,104 - #7 =
+INFO  09:43:55,104 - #46 1
+INFO  09:43:55,104 - #5 ;
+INFO  09:43:55,105 - #45 int
+INFO  09:43:55,105 - #45 i
+INFO  09:43:55,105 - #5 ;
+INFO  09:43:55,105 - #45 bool
+INFO  09:43:55,105 - #45 ibool
+INFO  09:43:55,106 - #5 ;
+INFO  09:43:55,106 - #11 enum
+INFO  09:43:55,106 - #45 MyType
+INFO  09:43:55,106 - #3 {
+INFO  09:43:55,106 - #45 NULA
+INFO  09:43:55,106 - #8 ,
+INFO  09:43:55,107 - #45 JEDAN
+INFO  09:43:55,107 - #7 =
+INFO  09:43:55,107 - #46 150
+INFO  09:43:55,107 - #8 ,
+INFO  09:43:55,107 - #45 DVA
+INFO  09:43:55,107 - #4 }
+INFO  09:43:55,107 - #45 int
+INFO  09:43:55,108 - #45 niz
+INFO  09:43:55,108 - #9 [
+INFO  09:43:55,108 - #10 ]
+INFO  09:43:55,108 - #5 ;
+INFO  09:43:55,108 - #3 {
+INFO  09:43:55,108 - #45 int
+INFO  09:43:55,108 - #45 test
+INFO  09:43:55,108 - #13 (
+INFO  09:43:55,108 - #14 )
+INFO  09:43:55,109 - #3 {
+INFO  09:43:55,109 - #18 return
+INFO  09:43:55,109 - #45 MyType
+INFO  09:43:55,109 - #29 .
+INFO  09:43:55,110 - #45 JEDAN
+INFO  09:43:55,110 - #5 ;
+INFO  09:43:55,111 - #4 }
+INFO  09:43:55,111 - #45 int
+INFO  09:43:55,111 - #45 sum
+INFO  09:43:55,111 - #13 (
+INFO  09:43:55,111 - #45 int
+INFO  09:43:55,111 - #45 z
+INFO  09:43:55,111 - #8 ,
+INFO  09:43:55,111 - #45 int
+INFO  09:43:55,112 - #45 d
+INFO  09:43:55,112 - #14 )
+INFO  09:43:55,112 - #3 {
+INFO  09:43:55,112 - #18 return
+INFO  09:43:55,112 - #45 z
+INFO  09:43:55,112 - #33 +
+INFO  09:43:55,112 - #45 d
+INFO  09:43:55,113 - #5 ;
+INFO  09:43:55,113 - #4 }
+INFO  09:43:55,113 - #45 int
+INFO  09:43:55,113 - #45 inkrement
+INFO  09:43:55,113 - #13 (
+INFO  09:43:55,113 - #45 int
+INFO  09:43:55,113 - #45 a
+INFO  09:43:55,113 - #8 ,
+INFO  09:43:55,113 - #45 int
+INFO  09:43:55,113 - #45 inc
+INFO  09:43:55,113 - #14 )
+INFO  09:43:55,113 - #45 int
+INFO  09:43:55,113 - #45 pom
+INFO  09:43:55,114 - #5 ;
+INFO  09:43:55,114 - #3 {
+INFO  09:43:55,114 - #15 if
+INFO  09:43:55,114 - #13 (
+INFO  09:43:55,114 - #45 inc
+INFO  09:43:55,114 - #35 ==
+INFO  09:43:55,114 - #45 jedan
+INFO  09:43:55,114 - #14 )
+INFO  09:43:55,115 - #45 pom
+INFO  09:43:55,115 - #7 =
+INFO  09:43:55,115 - #46 1
+INFO  09:43:55,115 - #5 ;
+INFO  09:43:55,115 - #44 else
+INFO  09:43:55,115 - #15 if
+INFO  09:43:55,116 - #13 (
+INFO  09:43:55,116 - #45 inc
+INFO  09:43:55,116 - #35 ==
+INFO  09:43:55,116 - #46 2
+INFO  09:43:55,116 - #14 )
+INFO  09:43:55,116 - #45 pom
+INFO  09:43:55,116 - #7 =
+INFO  09:43:55,116 - #45 a
+INFO  09:43:55,116 - #5 ;
+INFO  09:43:55,116 - #18 return
+INFO  09:43:55,117 - #45 sum
+INFO  09:43:55,117 - #13 (
+INFO  09:43:55,117 - #45 a
+INFO  09:43:55,117 - #8 ,
+INFO  09:43:55,117 - #45 pom
+INFO  09:43:55,117 - #14 )
+INFO  09:43:55,118 - #5 ;
+INFO  09:43:55,118 - #4 }
+INFO  09:43:55,118 - #45 bool
+INFO  09:43:55,118 - #45 verify
+INFO  09:43:55,118 - #13 (
+INFO  09:43:55,118 - #14 )
+INFO  09:43:55,118 - #3 {
+INFO  09:43:55,118 - #20 print
+INFO  09:43:55,118 - #13 (
+INFO  09:43:55,118 - #48 v
+INFO  09:43:55,118 - #14 )
+INFO  09:43:55,119 - #5 ;
+INFO  09:43:55,119 - #18 return
+INFO  09:43:55,119 - #47 0
+INFO  09:43:55,119 - #5 ;
+INFO  09:43:55,119 - #4 }
+INFO  09:43:55,119 - #45 int
+INFO  09:43:55,119 - #45 main
+INFO  09:43:55,119 - #13 (
+INFO  09:43:55,119 - #14 )
+INFO  09:43:55,119 - #45 int
+INFO  09:43:55,119 - #45 i
+INFO  09:43:55,119 - #5 ;
+INFO  09:43:55,119 - #45 int
+INFO  09:43:55,119 - #45 j
+INFO  09:43:55,119 - #5 ;
+INFO  09:43:55,119 - #3 {
+INFO  09:43:55,119 - #45 i
+INFO  09:43:55,119 - #7 =
+INFO  09:43:55,119 - #46 1520
+INFO  09:43:55,119 - #5 ;
+INFO  09:43:55,119 - #15 if
+INFO  09:43:55,119 - #13 (
+INFO  09:43:55,120 - #47 1
+INFO  09:43:55,120 - #14 )
+INFO  09:43:55,120 - #3 {
+INFO  09:43:55,120 - #15 if
+INFO  09:43:55,120 - #13 (
+INFO  09:43:55,120 - #45 i
+INFO  09:43:55,120 - #37 <
+INFO  09:43:55,120 - #46 200
+INFO  09:43:55,120 - #14 )
+INFO  09:43:55,120 - #20 print
+INFO  09:43:55,120 - #13 (
+INFO  09:43:55,120 - #46 123
+INFO  09:43:55,120 - #14 )
+INFO  09:43:55,120 - #5 ;
+INFO  09:43:55,120 - #44 else
+INFO  09:43:55,120 - #20 print
+INFO  09:43:55,121 - #13 (
+INFO  09:43:55,121 - #46 321
+INFO  09:43:55,121 - #14 )
+INFO  09:43:55,121 - #5 ;
+INFO  09:43:55,121 - #4 }
+INFO  09:43:55,121 - #4 }
+INFO  09:43:55,121 - #4 }
+INFO  09:43:55,127 - Program(
+  ProgramName(
+   test302
+  ) [ProgramName]
+  ConstVarEnumDecl_Var(
+    ConstVarEnumDecl_Enum(
+      ConstVarEnumDecl_Var(
+        ConstVarEnumDecl_Var(
+          ConstVarEnumDecl_Const(
+            ConstVarEnumDecl_Eps(
+            ) [ConstVarEnumDecl_Eps]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              ConstDeclFirst(
+               jedan
+                Constant_Num(
+                 1
+                ) [Constant_Num]
+              ) [ConstDeclFirst]
+              ConstDeclNext_Eps(
+              ) [ConstDeclNext_Eps]
+            ) [ConstDecl]
+          ) [ConstVarEnumDecl_Const]
+          VarDecl_Var(
+            Type(
+             int
+            ) [Type]
+            VarDeclFirst_Var(
+             i
+            ) [VarDeclFirst_Var]
+            VarDeclNext_Eps(
+            ) [VarDeclNext_Eps]
+          ) [VarDecl_Var]
+        ) [ConstVarEnumDecl_Var]
+        VarDecl_Var(
+          Type(
+           bool
+          ) [Type]
+          VarDeclFirst_Var(
+           ibool
+          ) [VarDeclFirst_Var]
+          VarDeclNext_Eps(
+          ) [VarDeclNext_Eps]
+        ) [VarDecl_Var]
+      ) [ConstVarEnumDecl_Var]
+      EnumDecl(
+        EnumName(
+         MyType
+        ) [EnumName]
+        EnumDeclFirst(
+         NULA
+          NumConst_Eps(
+          ) [NumConst_Eps]
+        ) [EnumDeclFirst]
+        EnumDeclNext_Comma(
+          EnumDeclFirst(
+           JEDAN
+            NumConst_Num(
+             150
+            ) [NumConst_Num]
+          ) [EnumDeclFirst]
+          EnumDeclNext_Comma(
+            EnumDeclFirst(
+             DVA
+              NumConst_Eps(
+              ) [NumConst_Eps]
+            ) [EnumDeclFirst]
+            EnumDeclNext_Eps(
+            ) [EnumDeclNext_Eps]
+          ) [EnumDeclNext_Comma]
+        ) [EnumDeclNext_Comma]
+      ) [EnumDecl]
+    ) [ConstVarEnumDecl_Enum]
+    VarDecl_Var(
+      Type(
+       int
+      ) [Type]
+      VarDeclFirst_Array(
+       niz
+      ) [VarDeclFirst_Array]
+      VarDeclNext_Eps(
+      ) [VarDeclNext_Eps]
+    ) [VarDecl_Var]
+  ) [ConstVarEnumDecl_Var]
+  MethodDeclL_MethodDecl(
+    MethodDecl_Decl(
+      ReturnType_Type(
+        Type(
+         int
+        ) [Type]
+      ) [ReturnType_Type]
+      MethodName(
+       test
+      ) [MethodName]
+      FormParsL_Eps(
+      ) [FormParsL_Eps]
+      VarDeclL_Eps(
+      ) [VarDeclL_Eps]
+      StatementL_Statement(
+        Statement_Return(
+          ExprOpt_Expr(
+            Expr_NonTernaryExpr(
+              NonTernaryExpr(
+                AddopTermL_Term(
+                  Term(
+                    MulopFactorL_Factor(
+                      Factor(
+                        MinusOpt_Eps(
+                        ) [MinusOpt_Eps]
+                        Factor_Designator(
+                          Designator_VarProperty(
+                            DesignatorVarPropertyName(
+                             MyType
+                            ) [DesignatorVarPropertyName]
+                            DesignatorPropertySuffix_EnumConst(
+                             JEDAN
+                            ) [DesignatorPropertySuffix_EnumConst]
+                          ) [Designator_VarProperty]
+                        ) [Factor_Designator]
+                      ) [Factor]
+                    ) [MulopFactorL_Factor]
+                  ) [Term]
+                ) [AddopTermL_Term]
+              ) [NonTernaryExpr]
+            ) [Expr_NonTernaryExpr]
+          ) [ExprOpt_Expr]
+        ) [Statement_Return]
+        StatementL_Eps(
+        ) [StatementL_Eps]
+      ) [StatementL_Statement]
+    ) [MethodDecl_Decl]
+    MethodDeclL_MethodDecl(
+      MethodDecl_Decl(
+        ReturnType_Type(
+          Type(
+           int
+          ) [Type]
+        ) [ReturnType_Type]
+        MethodName(
+         sum
+        ) [MethodName]
+        FormParsL_Pars(
+          FormPars(
+            Type(
+             int
+            ) [Type]
+            FormParsFirst_Var(
+             z
+            ) [FormParsFirst_Var]
+            FormParsNext_Comma(
+              Type(
+               int
+              ) [Type]
+              FormParsFirst_Var(
+               d
+              ) [FormParsFirst_Var]
+              FormParsNext_Eps(
+              ) [FormParsNext_Eps]
+            ) [FormParsNext_Comma]
+          ) [FormPars]
+        ) [FormParsL_Pars]
+        VarDeclL_Eps(
+        ) [VarDeclL_Eps]
+        StatementL_Statement(
+          Statement_Return(
+            ExprOpt_Expr(
+              Expr_NonTernaryExpr(
+                NonTernaryExpr(
+                  AddopTermL_AddopTerm(
+                    AddopTermL_Term(
+                      Term(
+                        MulopFactorL_Factor(
+                          Factor(
+                            MinusOpt_Eps(
+                            ) [MinusOpt_Eps]
+                            Factor_Designator(
+                              Designator_Var(
+                               z
+                              ) [Designator_Var]
+                            ) [Factor_Designator]
+                          ) [Factor]
+                        ) [MulopFactorL_Factor]
+                      ) [Term]
+                    ) [AddopTermL_Term]
+                    Addop_Plus(
+                    ) [Addop_Plus]
+                    Term(
+                      MulopFactorL_Factor(
+                        Factor(
+                          MinusOpt_Eps(
+                          ) [MinusOpt_Eps]
+                          Factor_Designator(
+                            Designator_Var(
+                             d
+                            ) [Designator_Var]
+                          ) [Factor_Designator]
+                        ) [Factor]
+                      ) [MulopFactorL_Factor]
+                    ) [Term]
+                  ) [AddopTermL_AddopTerm]
+                ) [NonTernaryExpr]
+              ) [Expr_NonTernaryExpr]
+            ) [ExprOpt_Expr]
+          ) [Statement_Return]
+          StatementL_Eps(
+          ) [StatementL_Eps]
+        ) [StatementL_Statement]
+      ) [MethodDecl_Decl]
+      MethodDeclL_MethodDecl(
+        MethodDecl_Decl(
+          ReturnType_Type(
+            Type(
+             int
+            ) [Type]
+          ) [ReturnType_Type]
+          MethodName(
+           inkrement
+          ) [MethodName]
+          FormParsL_Pars(
+            FormPars(
+              Type(
+               int
+              ) [Type]
+              FormParsFirst_Var(
+               a
+              ) [FormParsFirst_Var]
+              FormParsNext_Comma(
+                Type(
+                 int
+                ) [Type]
+                FormParsFirst_Var(
+                 inc
+                ) [FormParsFirst_Var]
+                FormParsNext_Eps(
+                ) [FormParsNext_Eps]
+              ) [FormParsNext_Comma]
+            ) [FormPars]
+          ) [FormParsL_Pars]
+          VarDeclL_VarDecl(
+            VarDecl_Var(
+              Type(
+               int
+              ) [Type]
+              VarDeclFirst_Var(
+               pom
+              ) [VarDeclFirst_Var]
+              VarDeclNext_Eps(
+              ) [VarDeclNext_Eps]
+            ) [VarDecl_Var]
+            VarDeclL_Eps(
+            ) [VarDeclL_Eps]
+          ) [VarDeclL_VarDecl]
+          StatementL_Statement(
+            Statement_IfElse(
+              Condition(
+                CondTermOr_CondTerm(
+                  CondTerm(
+                    CondFactNext_CondFact(
+                      CondFact_NonTernaryExprRelopNonTernaryExpr(
+                        NonTernaryExpr(
+                          AddopTermL_Term(
+                            Term(
+                              MulopFactorL_Factor(
+                                Factor(
+                                  MinusOpt_Eps(
+                                  ) [MinusOpt_Eps]
+                                  Factor_Designator(
+                                    Designator_Var(
+                                     inc
+                                    ) [Designator_Var]
+                                  ) [Factor_Designator]
+                                ) [Factor]
+                              ) [MulopFactorL_Factor]
+                            ) [Term]
+                          ) [AddopTermL_Term]
+                        ) [NonTernaryExpr]
+                        Relop_Eq(
+                        ) [Relop_Eq]
+                        NonTernaryExpr(
+                          AddopTermL_Term(
+                            Term(
+                              MulopFactorL_Factor(
+                                Factor(
+                                  MinusOpt_Eps(
+                                  ) [MinusOpt_Eps]
+                                  Factor_Designator(
+                                    Designator_Var(
+                                     jedan
+                                    ) [Designator_Var]
+                                  ) [Factor_Designator]
+                                ) [Factor]
+                              ) [MulopFactorL_Factor]
+                            ) [Term]
+                          ) [AddopTermL_Term]
+                        ) [NonTernaryExpr]
+                      ) [CondFact_NonTernaryExprRelopNonTernaryExpr]
+                    ) [CondFactNext_CondFact]
+                  ) [CondTerm]
+                ) [CondTermOr_CondTerm]
+              ) [Condition]
+              Statement_DesignatorStatement(
+                DesignatorStatement_DesignatorAssignExpr(
+                  Designator_Var(
+                   pom
+                  ) [Designator_Var]
+                  Expr_NonTernaryExpr(
+                    NonTernaryExpr(
+                      AddopTermL_Term(
+                        Term(
+                          MulopFactorL_Factor(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_Num(
+                               1
+                              ) [Factor_Num]
+                            ) [Factor]
+                          ) [MulopFactorL_Factor]
+                        ) [Term]
+                      ) [AddopTermL_Term]
+                    ) [NonTernaryExpr]
+                  ) [Expr_NonTernaryExpr]
+                ) [DesignatorStatement_DesignatorAssignExpr]
+              ) [Statement_DesignatorStatement]
+              ElseStatement_Else(
+                Else(
+                ) [Else]
+                Statement_IfElse(
+                  Condition(
+                    CondTermOr_CondTerm(
+                      CondTerm(
+                        CondFactNext_CondFact(
+                          CondFact_NonTernaryExprRelopNonTernaryExpr(
+                            NonTernaryExpr(
+                              AddopTermL_Term(
+                                Term(
+                                  MulopFactorL_Factor(
+                                    Factor(
+                                      MinusOpt_Eps(
+                                      ) [MinusOpt_Eps]
+                                      Factor_Designator(
+                                        Designator_Var(
+                                         inc
+                                        ) [Designator_Var]
+                                      ) [Factor_Designator]
+                                    ) [Factor]
+                                  ) [MulopFactorL_Factor]
+                                ) [Term]
+                              ) [AddopTermL_Term]
+                            ) [NonTernaryExpr]
+                            Relop_Eq(
+                            ) [Relop_Eq]
+                            NonTernaryExpr(
+                              AddopTermL_Term(
+                                Term(
+                                  MulopFactorL_Factor(
+                                    Factor(
+                                      MinusOpt_Eps(
+                                      ) [MinusOpt_Eps]
+                                      Factor_Num(
+                                       2
+                                      ) [Factor_Num]
+                                    ) [Factor]
+                                  ) [MulopFactorL_Factor]
+                                ) [Term]
+                              ) [AddopTermL_Term]
+                            ) [NonTernaryExpr]
+                          ) [CondFact_NonTernaryExprRelopNonTernaryExpr]
+                        ) [CondFactNext_CondFact]
+                      ) [CondTerm]
+                    ) [CondTermOr_CondTerm]
+                  ) [Condition]
+                  Statement_DesignatorStatement(
+                    DesignatorStatement_DesignatorAssignExpr(
+                      Designator_Var(
+                       pom
+                      ) [Designator_Var]
+                      Expr_NonTernaryExpr(
+                        NonTernaryExpr(
+                          AddopTermL_Term(
+                            Term(
+                              MulopFactorL_Factor(
+                                Factor(
+                                  MinusOpt_Eps(
+                                  ) [MinusOpt_Eps]
+                                  Factor_Designator(
+                                    Designator_Var(
+                                     a
+                                    ) [Designator_Var]
+                                  ) [Factor_Designator]
+                                ) [Factor]
+                              ) [MulopFactorL_Factor]
+                            ) [Term]
+                          ) [AddopTermL_Term]
+                        ) [NonTernaryExpr]
+                      ) [Expr_NonTernaryExpr]
+                    ) [DesignatorStatement_DesignatorAssignExpr]
+                  ) [Statement_DesignatorStatement]
+                  ElseStatement_Eps(
+                  ) [ElseStatement_Eps]
+                ) [Statement_IfElse]
+              ) [ElseStatement_Else]
+            ) [Statement_IfElse]
+            StatementL_Statement(
+              Statement_Return(
+                ExprOpt_Expr(
+                  Expr_NonTernaryExpr(
+                    NonTernaryExpr(
+                      AddopTermL_Term(
+                        Term(
+                          MulopFactorL_Factor(
+                            Factor(
+                              MinusOpt_Eps(
+                              ) [MinusOpt_Eps]
+                              Factor_DesignatorCall(
+                                Designator_Var(
+                                 sum
+                                ) [Designator_Var]
+                                ActParsL_ActPars(
+                                  ActParListStart(
+                                  ) [ActParListStart]
+                                  ActPar(
+                                    Expr_NonTernaryExpr(
+                                      NonTernaryExpr(
+                                        AddopTermL_Term(
+                                          Term(
+                                            MulopFactorL_Factor(
+                                              Factor(
+                                                MinusOpt_Eps(
+                                                ) [MinusOpt_Eps]
+                                                Factor_Designator(
+                                                  Designator_Var(
+                                                   a
+                                                  ) [Designator_Var]
+                                                ) [Factor_Designator]
+                                              ) [Factor]
+                                            ) [MulopFactorL_Factor]
+                                          ) [Term]
+                                        ) [AddopTermL_Term]
+                                      ) [NonTernaryExpr]
+                                    ) [Expr_NonTernaryExpr]
+                                  ) [ActPar]
+                                  ActParNext_Expr(
+                                    ActPar(
+                                      Expr_NonTernaryExpr(
+                                        NonTernaryExpr(
+                                          AddopTermL_Term(
+                                            Term(
+                                              MulopFactorL_Factor(
+                                                Factor(
+                                                  MinusOpt_Eps(
+                                                  ) [MinusOpt_Eps]
+                                                  Factor_Designator(
+                                                    Designator_Var(
+                                                     pom
+                                                    ) [Designator_Var]
+                                                  ) [Factor_Designator]
+                                                ) [Factor]
+                                              ) [MulopFactorL_Factor]
+                                            ) [Term]
+                                          ) [AddopTermL_Term]
+                                        ) [NonTernaryExpr]
+                                      ) [Expr_NonTernaryExpr]
+                                    ) [ActPar]
+                                    ActParNext_Eps(
+                                    ) [ActParNext_Eps]
+                                  ) [ActParNext_Expr]
+                                ) [ActParsL_ActPars]
+                              ) [Factor_DesignatorCall]
+                            ) [Factor]
+                          ) [MulopFactorL_Factor]
+                        ) [Term]
+                      ) [AddopTermL_Term]
+                    ) [NonTernaryExpr]
+                  ) [Expr_NonTernaryExpr]
+                ) [ExprOpt_Expr]
+              ) [Statement_Return]
+              StatementL_Eps(
+              ) [StatementL_Eps]
+            ) [StatementL_Statement]
+          ) [StatementL_Statement]
+        ) [MethodDecl_Decl]
+        MethodDeclL_MethodDecl(
+          MethodDecl_Decl(
+            ReturnType_Type(
+              Type(
+               bool
+              ) [Type]
+            ) [ReturnType_Type]
+            MethodName(
+             verify
+            ) [MethodName]
+            FormParsL_Eps(
+            ) [FormParsL_Eps]
+            VarDeclL_Eps(
+            ) [VarDeclL_Eps]
+            StatementL_Statement(
+              Statement_Print(
+                Expr_NonTernaryExpr(
+                  NonTernaryExpr(
+                    AddopTermL_Term(
+                      Term(
+                        MulopFactorL_Factor(
+                          Factor(
+                            MinusOpt_Eps(
+                            ) [MinusOpt_Eps]
+                            Factor_Char(
+                             v
+                            ) [Factor_Char]
+                          ) [Factor]
+                        ) [MulopFactorL_Factor]
+                      ) [Term]
+                    ) [AddopTermL_Term]
+                  ) [NonTernaryExpr]
+                ) [Expr_NonTernaryExpr]
+                NumConstOpt_Eps(
+                ) [NumConstOpt_Eps]
+              ) [Statement_Print]
+              StatementL_Statement(
+                Statement_Return(
+                  ExprOpt_Expr(
+                    Expr_NonTernaryExpr(
+                      NonTernaryExpr(
+                        AddopTermL_Term(
+                          Term(
+                            MulopFactorL_Factor(
+                              Factor(
+                                MinusOpt_Eps(
+                                ) [MinusOpt_Eps]
+                                Factor_Bool(
+                                 0
+                                ) [Factor_Bool]
+                              ) [Factor]
+                            ) [MulopFactorL_Factor]
+                          ) [Term]
+                        ) [AddopTermL_Term]
+                      ) [NonTernaryExpr]
+                    ) [Expr_NonTernaryExpr]
+                  ) [ExprOpt_Expr]
+                ) [Statement_Return]
+                StatementL_Eps(
+                ) [StatementL_Eps]
+              ) [StatementL_Statement]
+            ) [StatementL_Statement]
+          ) [MethodDecl_Decl]
+          MethodDeclL_MethodDecl(
+            MethodDecl_Decl(
+              ReturnType_Type(
+                Type(
+                 int
+                ) [Type]
+              ) [ReturnType_Type]
+              MethodName(
+               main
+              ) [MethodName]
+              FormParsL_Eps(
+              ) [FormParsL_Eps]
+              VarDeclL_VarDecl(
+                VarDecl_Var(
+                  Type(
+                   int
+                  ) [Type]
+                  VarDeclFirst_Var(
+                   i
+                  ) [VarDeclFirst_Var]
+                  VarDeclNext_Eps(
+                  ) [VarDeclNext_Eps]
+                ) [VarDecl_Var]
+                VarDeclL_VarDecl(
+                  VarDecl_Var(
+                    Type(
+                     int
+                    ) [Type]
+                    VarDeclFirst_Var(
+                     j
+                    ) [VarDeclFirst_Var]
+                    VarDeclNext_Eps(
+                    ) [VarDeclNext_Eps]
+                  ) [VarDecl_Var]
+                  VarDeclL_Eps(
+                  ) [VarDeclL_Eps]
+                ) [VarDeclL_VarDecl]
+              ) [VarDeclL_VarDecl]
+              StatementL_Statement(
+                Statement_DesignatorStatement(
+                  DesignatorStatement_DesignatorAssignExpr(
+                    Designator_Var(
+                     i
+                    ) [Designator_Var]
+                    Expr_NonTernaryExpr(
+                      NonTernaryExpr(
+                        AddopTermL_Term(
+                          Term(
+                            MulopFactorL_Factor(
+                              Factor(
+                                MinusOpt_Eps(
+                                ) [MinusOpt_Eps]
+                                Factor_Num(
+                                 1520
+                                ) [Factor_Num]
+                              ) [Factor]
+                            ) [MulopFactorL_Factor]
+                          ) [Term]
+                        ) [AddopTermL_Term]
+                      ) [NonTernaryExpr]
+                    ) [Expr_NonTernaryExpr]
+                  ) [DesignatorStatement_DesignatorAssignExpr]
+                ) [Statement_DesignatorStatement]
+                StatementL_Statement(
+                  Statement_IfElse(
+                    Condition(
+                      CondTermOr_CondTerm(
+                        CondTerm(
+                          CondFactNext_CondFact(
+                            CondFact_NonTernaryExpr(
+                              NonTernaryExpr(
+                                AddopTermL_Term(
+                                  Term(
+                                    MulopFactorL_Factor(
+                                      Factor(
+                                        MinusOpt_Eps(
+                                        ) [MinusOpt_Eps]
+                                        Factor_Bool(
+                                         1
+                                        ) [Factor_Bool]
+                                      ) [Factor]
+                                    ) [MulopFactorL_Factor]
+                                  ) [Term]
+                                ) [AddopTermL_Term]
+                              ) [NonTernaryExpr]
+                            ) [CondFact_NonTernaryExpr]
+                          ) [CondFactNext_CondFact]
+                        ) [CondTerm]
+                      ) [CondTermOr_CondTerm]
+                    ) [Condition]
+                    Statement_StatementL(
+                      StatementL_Statement(
+                        Statement_IfElse(
+                          Condition(
+                            CondTermOr_CondTerm(
+                              CondTerm(
+                                CondFactNext_CondFact(
+                                  CondFact_NonTernaryExprRelopNonTernaryExpr(
+                                    NonTernaryExpr(
+                                      AddopTermL_Term(
+                                        Term(
+                                          MulopFactorL_Factor(
+                                            Factor(
+                                              MinusOpt_Eps(
+                                              ) [MinusOpt_Eps]
+                                              Factor_Designator(
+                                                Designator_Var(
+                                                 i
+                                                ) [Designator_Var]
+                                              ) [Factor_Designator]
+                                            ) [Factor]
+                                          ) [MulopFactorL_Factor]
+                                        ) [Term]
+                                      ) [AddopTermL_Term]
+                                    ) [NonTernaryExpr]
+                                    Relop_Lt(
+                                    ) [Relop_Lt]
+                                    NonTernaryExpr(
+                                      AddopTermL_Term(
+                                        Term(
+                                          MulopFactorL_Factor(
+                                            Factor(
+                                              MinusOpt_Eps(
+                                              ) [MinusOpt_Eps]
+                                              Factor_Num(
+                                               200
+                                              ) [Factor_Num]
+                                            ) [Factor]
+                                          ) [MulopFactorL_Factor]
+                                        ) [Term]
+                                      ) [AddopTermL_Term]
+                                    ) [NonTernaryExpr]
+                                  ) [CondFact_NonTernaryExprRelopNonTernaryExpr]
+                                ) [CondFactNext_CondFact]
+                              ) [CondTerm]
+                            ) [CondTermOr_CondTerm]
+                          ) [Condition]
+                          Statement_Print(
+                            Expr_NonTernaryExpr(
+                              NonTernaryExpr(
+                                AddopTermL_Term(
+                                  Term(
+                                    MulopFactorL_Factor(
+                                      Factor(
+                                        MinusOpt_Eps(
+                                        ) [MinusOpt_Eps]
+                                        Factor_Num(
+                                         123
+                                        ) [Factor_Num]
+                                      ) [Factor]
+                                    ) [MulopFactorL_Factor]
+                                  ) [Term]
+                                ) [AddopTermL_Term]
+                              ) [NonTernaryExpr]
+                            ) [Expr_NonTernaryExpr]
+                            NumConstOpt_Eps(
+                            ) [NumConstOpt_Eps]
+                          ) [Statement_Print]
+                          ElseStatement_Else(
+                            Else(
+                            ) [Else]
+                            Statement_Print(
+                              Expr_NonTernaryExpr(
+                                NonTernaryExpr(
+                                  AddopTermL_Term(
+                                    Term(
+                                      MulopFactorL_Factor(
+                                        Factor(
+                                          MinusOpt_Eps(
+                                          ) [MinusOpt_Eps]
+                                          Factor_Num(
+                                           321
+                                          ) [Factor_Num]
+                                        ) [Factor]
+                                      ) [MulopFactorL_Factor]
+                                    ) [Term]
+                                  ) [AddopTermL_Term]
+                                ) [NonTernaryExpr]
+                              ) [Expr_NonTernaryExpr]
+                              NumConstOpt_Eps(
+                              ) [NumConstOpt_Eps]
+                            ) [Statement_Print]
+                          ) [ElseStatement_Else]
+                        ) [Statement_IfElse]
+                        StatementL_Eps(
+                        ) [StatementL_Eps]
+                      ) [StatementL_Statement]
+                    ) [Statement_StatementL]
+                    ElseStatement_Eps(
+                    ) [ElseStatement_Eps]
+                  ) [Statement_IfElse]
+                  StatementL_Eps(
+                  ) [StatementL_Eps]
+                ) [StatementL_Statement]
+              ) [StatementL_Statement]
+            ) [MethodDecl_Decl]
+            MethodDeclL_Eps(
+            ) [MethodDeclL_Eps]
+          ) [MethodDeclL_MethodDecl]
+        ) [MethodDeclL_MethodDecl]
+      ) [MethodDeclL_MethodDecl]
+    ) [MethodDeclL_MethodDecl]
+  ) [MethodDeclL_MethodDecl]
+) [Program]
+INFO  09:43:55,127 - =================================================================
+INFO  09:43:55,133 - Pristup simbolickoj konstanti: JEDAN rs.etf.pp1.symboltable.concepts.Obj@42d80b78 na liniji 15
+INFO  09:43:55,134 - Pristup promenljivoj: z rs.etf.pp1.symboltable.concepts.Obj@3bfdc050 na liniji 20
+INFO  09:43:55,134 - Pristup promenljivoj: d rs.etf.pp1.symboltable.concepts.Obj@1bce4f0a na liniji 20
+INFO  09:43:55,134 - Pristup promenljivoj: inc rs.etf.pp1.symboltable.concepts.Obj@5e3a8624 na liniji 25
+INFO  09:43:55,134 - Pristup promenljivoj: jedan rs.etf.pp1.symboltable.concepts.Obj@5c3bd550 na liniji 25
+INFO  09:43:55,134 - Pristup promenljivoj: pom rs.etf.pp1.symboltable.concepts.Obj@91161c7 na liniji 25
+INFO  09:43:55,134 - Pristup promenljivoj: inc rs.etf.pp1.symboltable.concepts.Obj@5e3a8624 na liniji 26
+INFO  09:43:55,134 - Pristup promenljivoj: pom rs.etf.pp1.symboltable.concepts.Obj@91161c7 na liniji 26
+INFO  09:43:55,134 - Pristup promenljivoj: a rs.etf.pp1.symboltable.concepts.Obj@604ed9f0 na liniji 26
+INFO  09:43:55,134 - Pristup promenljivoj: sum rs.etf.pp1.symboltable.concepts.Obj@6a4f787b na liniji 28
+INFO  09:43:55,134 - Pristup promenljivoj: a rs.etf.pp1.symboltable.concepts.Obj@604ed9f0 na liniji 28
+INFO  09:43:55,134 - Pristup promenljivoj: pom rs.etf.pp1.symboltable.concepts.Obj@91161c7 na liniji 28
+INFO  09:43:55,135 - Poziv funkcije: sum rs.etf.pp1.symboltable.concepts.Obj@6a4f787b na liniji 28
+INFO  09:43:55,135 - Pristup promenljivoj: i rs.etf.pp1.symboltable.concepts.Obj@6a41eaa2 na liniji 42
+INFO  09:43:55,135 - Pristup promenljivoj: i rs.etf.pp1.symboltable.concepts.Obj@6a41eaa2 na liniji 45
+ERROR 09:43:55,135 - Ne postoji return unutar metode: main na liniji 38
+ERROR 09:43:55,135 - Program nema adekvatnu main metodu. na liniji 3
+INFO  09:43:55,135 - =================================================================
+ERROR 09:43:55,136 - Parsiranje NIJE uspesno zavrseno!

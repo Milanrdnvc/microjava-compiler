@@ -18,30 +18,6 @@ git clone https://github.com/Milanrdnvc/microjava-compiler.git
 ```
 The project is built using Apache Ant via the included `build.xml` script. Make sure you have Ant and JDK installed.
 
-Generate the lexer from the JFlex specification:
-```bash
-ant lexerGen
-```
-
-Generate the parser and AST from the CUP specification:
-```bash
-ant parserGen
-```
-
-Compile the project:
-```bash
-ant compile
-```
-
-Run the compiled `.obj` bytecode on the MicroJava VM:
-```bash
-ant runObj
-```
-
-Disassemble the compiled `.obj` file:
-```bash
-ant disasm
-```
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## License

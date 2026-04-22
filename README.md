@@ -13,9 +13,6 @@ This project involves the implementation of a full compiler for the **MicroJava*
 - **Extended Language Features**: Support for enums, ternary operator (`?:`), switch/case, and for loops.
 ## Installation
 You can clone this repository to your local development environment:
-```bash
-git clone https://github.com/Milanrdnvc/microjava-compiler.git
-```
 The project is built using Apache Ant via the included `build.xml` script. Make sure you have Ant and JDK installed.
 
 ## Contributing
